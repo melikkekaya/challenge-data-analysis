@@ -217,3 +217,12 @@ challenge/bin/wsdump
 *.
 nata_stage2.ipynb
 .gitignore
+challenge/bin/f2py3
+challenge/bin/fonttools
+.gitignore
+challenge/bin/pyftsubset
+.gitignore
+challenge/bin/f2py
+.gitignore
+challenge/bin/ttx
+challenge/bin/pyftmerge
