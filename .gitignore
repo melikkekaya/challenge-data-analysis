@@ -215,3 +215,5 @@ challenge/bin/wsdump
 *.map
 *.1
 *.
+nata_stage2.ipynb
+.gitignore
