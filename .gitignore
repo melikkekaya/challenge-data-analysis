@@ -226,3 +226,5 @@ challenge/bin/f2py
 .gitignore
 challenge/bin/ttx
 challenge/bin/pyftmerge
+clean_data.csv
+clean_data.csv
