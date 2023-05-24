@@ -228,3 +228,10 @@ challenge/bin/ttx
 challenge/bin/pyftmerge
 clean_data.csv
 clean_data.csv
+.DS_Store
+challenge/belgian-region-zip/
+*.zip
+*.dbf
+*.prj
+*.shp
+*.shx
