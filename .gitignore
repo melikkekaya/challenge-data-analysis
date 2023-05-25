@@ -235,3 +235,4 @@ challenge/belgian-region-zip/
 *.prj
 *.shp
 *.shx
+n_clean_data.csv
