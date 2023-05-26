@@ -1,3 +1,5 @@
+numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64', 'bool']
+
 df_houses = df[df['Type of property'] == 'house']
 df_apartments = df[df['Type of property'] == 'apartment']
 apartdf = df_apartments.select_dtypes(include=numerics)
