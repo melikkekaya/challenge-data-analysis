@@ -236,3 +236,4 @@ challenge/belgian-region-zip/
 *.shp
 *.shx
 n_clean_data.csv
+clean_apartments.csv
