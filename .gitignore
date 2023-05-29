@@ -208,7 +208,6 @@ challenge/bin/wsdump
 *.png
 *.orig
 *.js
-*.txt
 *.j2
 *.css
 *.tpl
