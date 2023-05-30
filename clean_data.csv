@@ -854,7 +854,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9618806,saint-gilles,1060,Brussels Capital Region,house,house,for sale,695000,2714.84,Good,3,2.0,5.0,256.0,0.0,Installed,1,256.0,427,3,0,0.0,1,8.0,0.0,0.0
 9617516,saint-gilles,1060,Brussels Capital Region,house,mixed use building,for sale,695000,2714.84,Good,3,2.0,5.0,256.0,0.0,Installed,1,256.0,427,3,0,0.0,1,8.0,0.0,0.0
 10531257,zaventem sint-stevens-woluwe,1932,Flemish Brabant,house,house,for sale,699000,2796.0,As new,4,3.0,4.0,250.0,0.0,USA hyper equipped,3,477.0,233,5,1,50.0,1,225.0,0.0,0.0
-10086163,grimbergen,1850,Flemish Brabant,house,house,for sale,749500,1788.78,As new,4,4.0,5.0,419.0,0.0,USA hyper equipped,3,646.0,10555,1,1,,0,0.0,0.0,0.0
+10086163,grimbergen,1850,Flemish Brabant,house,house,for sale,749500,1788.78,As new,4,4.0,5.0,419.0,0.0,USA hyper equipped,3,646.0,105,6,1,,0,0.0,0.0,0.0
 10491328,etterbeek,1040,Brussels Capital Region,house,house,for sale,750000,3488.37,Good,3,2.0,4.0,215.0,0.0,USA semi equipped,2,210.0,185,6,1,30.0,1,130.0,0.0,0.0
 10379728,uccle,1180,Brussels Capital Region,house,mixed use building,for sale,750000,2622.38,Good,3,2.0,4.0,286.0,0.0,USA hyper equipped,3,185.0,426,3,1,20.0,1,55.0,0.0,0.0
 10527371,waterloo,1410,Walloon Brabant,house,villa,for sale,770000,3080.0,To restore,0,4.0,5.0,250.0,0.0,Installed,1,2473.0,522,2,1,40.0,1,1800.0,1.0,0.0
@@ -2013,7 +2013,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10550003,herentals,2200,Antwerp,house,villa,for sale,1995000,4346.41,As new,4,4.0,5.0,459.0,0.0,USA hyper equipped,3,4496.0,44,7,1,,1,,1.0,1.0
 10235269,bruxelles,1000,Brussels Capital Region,house,apartment block,for sale,2050000,3621.91,As new,4,3.0,7.0,566.0,0.0,,-1,,153,6,0,0.0,0,0.0,0.0,0.0
 10481838,antwerp,2018,Antwerp,house,mansion,for sale,2450000,3996.74,As new,4,2.0,5.0,613.0,0.0,Hyper equipped,3,258.0,175,6,1,15.0,1,60.0,0.0,0.0
-10381663,ieper zillebeke,8902,West Flanders,house,chalet,for sale,2500000,3333.33,As new,4,4.0,16.0,750.0,0.0,USA hyper equipped,3,1039.0,13258,1,1,,0,0.0,0.0,0.0
+10381663,ieper zillebeke,8902,West Flanders,house,chalet,for sale,2500000,3333.33,As new,4,4.0,16.0,750.0,0.0,USA hyper equipped,3,1039.0,132,6,1,,0,0.0,0.0,0.0
 10551394,schoten,2900,Antwerp,house,exceptional property,for sale,2595000,3199.75,As new,4,4.0,5.0,811.0,0.0,Installed,1,9100.0,576,2,0,0.0,1,,0.0,0.0
 10414125,wenduine,8420,West Flanders,house,villa,for sale,450000,2008.93,Good,3,,6.0,224.0,0.0,Installed,1,600.0,301,4,1,,0,0.0,0.0,0.0
 10553666,saint-georges-sur-meuse,4470,Liège,house,house,for sale,40000,333.33,Good,3,4.0,2.0,120.0,0.0,Installed,1,1081.0,480,3,1,,1,,0.0,0.0
@@ -3165,7 +3165,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10487623,gent,9000,East Flanders,house,house,for sale,1150000,8333.33,Good,3,,3.0,138.0,0.0,,-1,66.0,1158,1,0,0.0,0,0.0,0.0,0.0
 10509789,saint-gilles,1060,Brussels Capital Region,house,apartment block,for sale,1200000,3750.0,To be done up,2,2.0,,320.0,0.0,,-1,93.0,363,4,0,0.0,0,0.0,0.0,0.0
 10422005,ixelles,1050,Brussels Capital Region,house,mixed use building,for sale,1350000,3375.0,,-1,,8.0,400.0,0.0,,-1,260.0,275,5,1,35.0,0,0.0,0.0,0.0
-10490703,dendermonde,9200,East Flanders,house,house,for sale,1950000,4493.09,,-1,4.0,4.0,434.0,0.0,,-1,1407.0,3221,1,0,0.0,1,,0.0,1.0
+10490703,dendermonde,9200,East Flanders,house,house,for sale,1950000,4493.09,,-1,4.0,4.0,434.0,0.0,,-1,1407.0,32,7,0,0.0,1,,0.0,1.0
 10321257,wemmel,1780,Flemish Brabant,house,villa,for sale,1995000,4925.93,As new,4,4.0,5.0,405.0,0.0,Hyper equipped,3,1454.0,119,6,1,127.0,1,1000.0,0.0,0.0
 10502558,gent,9000,East Flanders,house,other property,for sale,2090000,1756.3,To restore,0,2.0,12.0,1190.0,0.0,Semi equipped,2,712.0,-1,-1,1,143.0,0,0.0,0.0,0.0
 10502556,gent,9000,East Flanders,house,mansion,for sale,2090000,1756.3,To restore,0,2.0,12.0,1190.0,0.0,Semi equipped,2,712.0,-1,-1,1,143.0,0,0.0,0.0,0.0
@@ -3377,7 +3377,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10425950,hingeon,5380,Namur,house,house,for sale,479000,2521.05,,-1,4.0,4.0,190.0,0.0,Installed,1,6283.0,113,6,0,0.0,1,,0.0,0.0
 10549790,sainte-ode,6680,Luxembourg,house,villa,for sale,488000,1534.59,As new,4,4.0,3.0,318.0,0.0,USA hyper equipped,3,920.0,-1,-1,1,54.0,0,0.0,1.0,0.0
 10489928,etterbeek,1040,Brussels Capital Region,house,house,for sale,490000,3379.31,To renovate,1,2.0,2.0,145.0,0.0,,-1,125.0,-1,-1,1,40.0,1,40.0,0.0,0.0
-10304002,molenbeek-saint-jean,1000,Brussels Capital Region,house,house,for sale,495000,2981.93,As new,4,2.0,4.0,166.0,0.0,,-1,,5888,1,1,21.0,1,15.0,0.0,0.0
+10304002,molenbeek-saint-jean,1000,Brussels Capital Region,house,house,for sale,495000,2981.93,As new,4,2.0,4.0,166.0,0.0,,-1,,58,7,1,21.0,1,15.0,0.0,0.0
 10434732,durbuy,6940,Luxembourg,house,house,for sale,495000,1980.0,Good,3,3.0,4.0,250.0,0.0,USA hyper equipped,3,800.0,205,5,1,,1,800.0,1.0,1.0
 10417547,gistel,8470,West Flanders,house,mansion,for sale,495000,1192.77,To renovate,1,3.0,11.0,415.0,0.0,,-1,1144.0,439,3,1,,1,795.0,0.0,0.0
 10445811,geraardsbergen,9500,East Flanders,house,house,for sale,495000,1964.29,,-1,3.0,2.0,252.0,0.0,,-1,730.0,299,5,1,,0,0.0,0.0,0.0
@@ -3525,7 +3525,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9382339,villers-la-ville,1495,Walloon Brabant,house,house,for sale,365000,2607.14,,-1,3.0,3.0,140.0,0.0,Installed,1,660.0,97,7,0,0.0,1,,0.0,0.0
 10117424,kortenaken,3473,Flemish Brabant,house,house,for sale,377065,1770.26,As new,4,3.0,3.0,213.0,0.0,Hyper equipped,3,649.0,-1,-1,1,16.0,0,0.0,0.0,0.0
 10117425,kortenaken,3473,Flemish Brabant,house,house,for sale,378260,1759.35,As new,4,3.0,3.0,215.0,0.0,Hyper equipped,3,687.0,-1,-1,1,16.0,0,0.0,0.0,0.0
-10317790,brugge,8380,West Flanders,house,house,for sale,385000,3850.0,As new,4,3.0,3.0,100.0,0.0,Hyper equipped,3,139.0,7514,1,0,0.0,1,,0.0,0.0
+10317790,brugge,8380,West Flanders,house,house,for sale,385000,3850.0,As new,4,3.0,3.0,100.0,0.0,Hyper equipped,3,139.0,75,7,0,0.0,1,,0.0,0.0
 10152467,denderleeuw,9470,East Flanders,house,house,for sale,390000,1529.41,As new,4,2.0,3.0,255.0,0.0,Installed,1,175.0,29,7,1,12.0,1,88.0,0.0,0.0
 10423033,affligem,1790,Flemish Brabant,house,house,for sale,412000,1898.62,As new,4,3.0,3.0,217.0,0.0,USA hyper equipped,3,325.0,30,7,1,,1,325.0,0.0,0.0
 10423032,affligem,1790,Flemish Brabant,house,house,for sale,416500,1919.35,As new,4,3.0,3.0,217.0,0.0,USA hyper equipped,3,360.0,30,7,1,,1,360.0,0.0,0.0
@@ -4528,7 +4528,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10501262,ixelles,1050,Brussels Capital Region,house,mansion,for sale,4790000,4790.0,As new,4,,8.0,1000.0,0.0,Hyper equipped,3,655.0,193,6,1,,0,0.0,0.0,1.0
 10303949,knokke-heist,8300,West Flanders,house,house,for sale,11000000,11640.21,As new,4,4.0,7.0,945.0,0.0,Hyper equipped,3,2348.0,140,6,1,,0,0.0,0.0,1.0
 10578992,nijlen,2560,Antwerp,house,house,for sale,369000,2050.0,As new,4,,3.0,180.0,0.0,,-1,380.0,183,6,0,0.0,0,0.0,0.0,0.0
-10579569,gent desteldonk,9042,East Flanders,house,house,for sale,645000,2972.35,As new,4,3.0,4.0,217.0,0.0,Installed,1,280.0,5825,1,1,30.0,1,117.0,0.0,0.0
+10579569,gent desteldonk,9042,East Flanders,house,house,for sale,645000,2972.35,As new,4,3.0,4.0,217.0,0.0,Installed,1,280.0,58,7,1,30.0,1,117.0,0.0,0.0
 10579649,machelen diegem,1831,Flemish Brabant,house,villa,for sale,675000,3375.0,As new,4,3.0,5.0,200.0,0.0,USA hyper equipped,3,234.0,133,6,1,,1,150.0,0.0,0.0
 10411848,châtelet,6200,Hainaut,house,house,for sale,189900,949.5,To be done up,2,3.0,5.0,200.0,0.0,,-1,443.0,360,4,1,30.0,1,346.0,1.0,0.0
 10553180,fleurus,6220,Hainaut,house,house,for sale,219000,1990.91,Just renovated,3,2.0,3.0,110.0,0.0,USA hyper equipped,3,,159,6,1,,0,0.0,0.0,0.0
@@ -4561,7 +4561,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10545501,antwerpen,2660,Antwerp,house,town house,for sale,389000,2357.58,Good,3,2.0,3.0,165.0,0.0,Installed,1,200.0,-1,-1,1,15.0,1,105.0,0.0,0.0
 10497235,lier,2500,Antwerp,house,house,for sale,393000,2124.32,,-1,3.0,3.0,185.0,0.0,Installed,1,279.0,-1,-1,1,13.0,1,180.0,0.0,0.0
 10486169,lede,9340,East Flanders,house,house,for sale,399000,2660.0,,-1,3.0,3.0,150.0,0.0,Hyper equipped,3,360.0,-1,-1,1,20.0,1,200.0,0.0,0.0
-10524801,schaerbeek,1030,Brussels Capital Region,house,house,for sale,435000,3480.0,As new,4,3.0,3.0,125.0,0.0,,-1,,5888,1,1,,0,0.0,0.0,0.0
+10524801,schaerbeek,1030,Brussels Capital Region,house,house,for sale,435000,3480.0,As new,4,3.0,3.0,125.0,0.0,,-1,,58,7,1,,0,0.0,0.0,0.0
 10413916,st-andries,8200,West Flanders,house,house,for sale,459000,3165.52,As new,4,3.0,3.0,145.0,0.0,Installed,1,327.0,30,7,1,,1,,0.0,0.0
 10162924,breendonk,2870,Antwerp,house,house,for sale,468000,2228.57,,-1,3.0,3.0,210.0,0.0,Installed,1,294.0,-1,-1,1,,1,,0.0,0.0
 10235098,rijmenam,2820,Antwerp,house,house,for sale,486000,2981.6,,-1,3.0,3.0,163.0,0.0,Installed,1,304.0,-1,-1,1,9.0,1,203.0,0.0,0.0
@@ -4920,7 +4920,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10497127,brugge,8000,West Flanders,house,house,for sale,440000,2573.1,Just renovated,3,2.0,4.0,171.0,0.0,Installed,1,127.0,194,6,0,0.0,0,0.0,0.0,0.0
 10201436,lier,2500,Antwerp,house,town house,for sale,443000,2447.51,As new,4,2.0,2.0,181.0,0.0,Hyper equipped,3,180.0,199,6,1,30.0,1,123.0,0.0,0.0
 10297954,st-katelijne-waver,2860,Antwerp,house,house,for sale,445000,2781.25,Just renovated,3,2.0,4.0,160.0,0.0,Installed,1,316.0,150,6,1,15.0,0,0.0,0.0,0.0
-10325126,zeebrugge,8380,West Flanders,house,house,for sale,445000,3201.44,As new,4,3.0,4.0,139.0,0.0,Hyper equipped,3,211.0,7325,1,0,0.0,1,,0.0,0.0
+10325126,zeebrugge,8380,West Flanders,house,house,for sale,445000,3201.44,As new,4,3.0,4.0,139.0,0.0,Hyper equipped,3,211.0,73,7,0,0.0,1,,0.0,0.0
 10445437,braine-le-chÂteau,1440,Walloon Brabant,house,house,for sale,449000,1825.2,Good,3,3.0,4.0,246.0,0.0,,-1,945.0,316,4,0,0.0,1,,0.0,0.0
 10445436,tubize,1480,Walloon Brabant,house,house,for sale,449000,1825.2,Good,3,3.0,4.0,246.0,0.0,,-1,945.0,316,4,0,0.0,1,,0.0,0.0
 10544971,sint-pieters-leeuw,1600,Flemish Brabant,house,house,for sale,449000,3096.55,Just renovated,3,2.0,5.0,145.0,0.0,,-1,567.0,189,6,1,20.0,1,355.0,0.0,0.0
@@ -5344,7 +5344,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10379645,alveringem,8690,West Flanders,house,farmhouse,for sale,360000,1894.74,To renovate,1,4.0,3.0,190.0,0.0,Installed,1,4395.0,507,2,0,0.0,1,,0.0,0.0
 10279468,alveringem,8691,West Flanders,house,house,for sale,360000,1894.74,To renovate,1,4.0,3.0,190.0,0.0,Installed,1,4395.0,507,2,0,0.0,1,,0.0,0.0
 10535404,assebroek,8310,West Flanders,house,house,for sale,365000,2027.78,To renovate,1,4.0,3.0,180.0,0.0,Installed,1,516.0,830,1,1,25.0,1,402.0,1.0,0.0
-10543506,oostende,8400,West Flanders,house,house,for sale,365000,2851.56,As new,4,,3.0,128.0,0.0,Hyper equipped,3,155.0,9271,1,1,,1,,0.0,0.0
+10543506,oostende,8400,West Flanders,house,house,for sale,365000,2851.56,As new,4,,3.0,128.0,0.0,Hyper equipped,3,155.0,92,7,1,,1,,0.0,0.0
 10537108,esen,8600,West Flanders,house,house,for sale,365000,1586.96,Good,3,,4.0,230.0,0.0,Installed,1,4238.0,276,5,1,,1,,0.0,0.0
 10425442,mol,2400,Antwerp,house,house,for sale,369000,1854.27,Good,3,,5.0,199.0,0.0,Installed,1,1125.0,479,3,1,,1,,0.0,0.0
 9942010,la bruyère,5080,Namur,house,house,for sale,369000,2145.35,Good,3,,2.0,172.0,0.0,Installed,1,4553.0,391,4,0,0.0,1,,0.0,0.0
@@ -5680,7 +5680,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10486576,halle,1500,Flemish Brabant,house,town house,for sale,349000,2141.1,To be done up,2,3.0,3.0,163.0,0.0,Semi equipped,2,352.0,461,3,1,,0,0.0,0.0,0.0
 10506147,heusden-zolder,3550,Limburg,house,house,for sale,349000,2052.94,As new,4,2.0,5.0,170.0,0.0,Installed,1,132.0,108,6,0,0.0,0,0.0,0.0,0.0
 10546074,lokeren,9160,East Flanders,house,house,for sale,349000,2528.99,,-1,2.0,3.0,138.0,0.0,Installed,1,180.0,148,6,1,,1,,0.0,0.0
-10491068,kluisbergen,9690,East Flanders,house,house,for sale,349000,1938.89,As new,4,2.0,3.0,180.0,0.0,,-1,100.0,562,2,1,24.0,1,,0.0,0.0
+10491068,kluisbergen,9690,East Flanders,house,house,for sale,349000,1938.89,As new,4,2.0,3.0,180.0,0.0,,-1,100.0,56,7,1,24.0,1,,0.0,0.0
 10361545,chaumont-gistoux,1325,Walloon Brabant,house,mixed use building,for sale,350000,1707.32,Good,3,3.0,6.0,205.0,0.0,Not installed,0,566.0,-1,-1,0,0.0,1,,0.0,0.0
 10361540,chaumont-gistoux,1325,Walloon Brabant,house,house,for sale,350000,1707.32,Good,3,3.0,6.0,205.0,0.0,Not installed,0,566.0,-1,-1,0,0.0,1,,0.0,0.0
 10533134,bierghes,1430,Walloon Brabant,house,house,for sale,350000,2333.33,Good,3,3.0,3.0,150.0,0.0,Installed,1,924.0,185,6,1,50.0,1,700.0,0.0,0.0
@@ -5789,7 +5789,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10418688,lustin,5170,Namur,house,house,for sale,849000,1681.19,To renovate,1,4.0,7.0,505.0,0.0,,-1,2800.0,458,3,0,0.0,1,,1.0,1.0
 10418687,lustin,5170,Namur,house,villa,for sale,849000,1681.19,To renovate,1,4.0,7.0,505.0,0.0,,-1,2800.0,458,3,0,0.0,1,,1.0,1.0
 10498546,bruxelles,1000,Brussels Capital Region,house,apartment block,for sale,850000,3400.0,Good,3,2.0,5.0,250.0,0.0,Semi equipped,2,65.0,-1,-1,1,,0,0.0,0.0,0.0
-10428383,brugge sint-michiels,8200,West Flanders,house,mixed use building,for sale,900000,2571.43,As new,4,4.0,3.0,350.0,0.0,USA hyper equipped,3,619.0,764,1,1,12.0,1,180.0,0.0,0.0
+10428383,brugge sint-michiels,8200,West Flanders,house,mixed use building,for sale,900000,2571.43,As new,4,4.0,3.0,350.0,0.0,USA hyper equipped,3,619.0,76,7,1,12.0,1,180.0,0.0,0.0
 10450736,wolkrange,6780,Luxembourg,house,house,for sale,910000,3250.0,As new,4,4.0,5.0,280.0,0.0,Hyper equipped,3,3490.0,327,4,1,,1,,1.0,1.0
 10398746,leuven,3000,Flemish Brabant,house,house,for sale,925000,3557.69,Just renovated,3,2.0,6.0,260.0,0.0,,-1,,137,6,1,22.0,1,20.0,0.0,0.0
 10496625,antwerpen,2000,Antwerp,house,mansion,for sale,995000,2211.11,Good,3,2.0,7.0,450.0,0.0,Installed,1,170.0,256,5,0,0.0,1,80.0,0.0,0.0
@@ -5823,7 +5823,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10451131,knokke-heist,8300,West Flanders,house,house,for sale,3350000,13508.06,As new,4,4.0,5.0,248.0,0.0,Installed,1,536.0,236,5,1,,1,536.0,0.0,0.0
 10452851,knokke-zoute,8300,West Flanders,house,villa,for sale,3500000,12635.38,To renovate,1,3.0,7.0,277.0,0.0,Not installed,0,588.0,484,3,1,,1,588.0,0.0,0.0
 10523938,knokke-heist,8300,West Flanders,house,house,for sale,4295000,10737.5,Good,3,3.0,7.0,400.0,0.0,Installed,1,892.0,342,4,1,,0,0.0,0.0,0.0
-10145265,knokke-heist knokke,8300,West Flanders,house,villa,for sale,4500000,11479.59,As new,4,4.0,5.0,392.0,0.0,Hyper equipped,3,930.0,7113,1,1,,0,0.0,0.0,1.0
+10145265,knokke-heist knokke,8300,West Flanders,house,villa,for sale,4500000,11479.59,As new,4,4.0,5.0,392.0,0.0,Hyper equipped,3,930.0,71,7,1,,0,0.0,0.0,1.0
 10372029,forest,1190,Brussels Capital Region,house,villa,for sale,4950000,6187.5,Good,3,4.0,7.0,800.0,0.0,Hyper equipped,3,4895.0,260,5,1,200.0,0,0.0,0.0,1.0
 9167173,tervuren,3080,Flemish Brabant,house,exceptional property,for sale,4950000,6799.45,Good,3,4.0,6.0,728.0,0.0,Hyper equipped,3,20066.0,-1,-1,1,100.0,1,20066.0,0.0,1.0
 10447218,grez-doiceau,1390,Walloon Brabant,house,villa,for sale,7500000,6250.0,As new,4,4.0,5.0,1200.0,0.0,Hyper equipped,3,13154.0,183,6,1,200.0,0,0.0,0.0,1.0
@@ -5869,7 +5869,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9923457,brugge assebroek,8310,West Flanders,house,house,for sale,389000,2839.42,,-1,2.0,3.0,137.0,0.0,USA hyper equipped,3,170.0,30,7,1,8.0,1,33.0,0.0,0.0
 10565262,ingelmunster,8770,West Flanders,house,house,for sale,395000,1612.24,Good,3,4.0,3.0,245.0,0.0,,-1,937.0,267,5,1,38.0,0,0.0,0.0,0.0
 10422810,aywaille,4920,Liège,house,villa,for sale,410000,2204.3,,-1,4.0,3.0,186.0,0.0,Not installed,0,2281.0,-1,-1,1,,0,0.0,0.0,0.0
-10541279,heist-op-den-berg,2222,Antwerp,house,house,for sale,444000,2336.84,As new,4,3.0,4.0,190.0,0.0,Installed,1,380.0,4466,1,0,0.0,1,200.0,0.0,0.0
+10541279,heist-op-den-berg,2222,Antwerp,house,house,for sale,444000,2336.84,As new,4,3.0,4.0,190.0,0.0,Installed,1,380.0,44,7,0,0.0,1,200.0,0.0,0.0
 10453689,malle,2390,Antwerp,house,house,for sale,499000,2268.18,As new,4,3.0,3.0,220.0,0.0,,-1,399.0,9,7,1,26.0,1,200.0,0.0,0.0
 10564559,gent,9040,East Flanders,house,house,for sale,519000,2965.71,As new,4,2.0,3.0,175.0,0.0,Installed,1,247.0,70,7,1,18.0,1,162.0,0.0,0.0
 10513117,roux,6044,Hainaut,house,apartment block,for sale,549900,1845.3,,-1,3.0,8.0,298.0,0.0,,-1,556.0,89,7,0,0.0,1,380.0,0.0,0.0
@@ -6468,7 +6468,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10306417,antwerp,2000,Antwerp,house,mansion,for sale,1095000,3896.8,As new,4,2.0,3.0,281.0,0.0,USA hyper equipped,3,130.0,383,4,1,18.0,0,0.0,0.0,0.0
 10088645,reet,2840,Antwerp,house,mixed use building,for sale,1115000,1991.07,Good,3,2.0,3.0,560.0,0.0,USA hyper equipped,3,680.0,502,2,1,15.0,1,117.0,0.0,0.0
 10425812,fleurus,6224,Hainaut,house,exceptional property,for sale,1150000,2613.64,As new,4,4.0,5.0,440.0,0.0,Installed,1,1382.0,159,6,1,30.0,1,1000.0,0.0,0.0
-10175089,knokke-heist knokke,8300,West Flanders,house,house,for sale,1175000,6911.76,As new,4,4.0,3.0,170.0,0.0,USA installed,1,775.0,16454,1,1,,0,0.0,0.0,0.0
+10175089,knokke-heist knokke,8300,West Flanders,house,house,for sale,1175000,6911.76,As new,4,4.0,3.0,170.0,0.0,USA installed,1,775.0,164,6,1,,0,0.0,0.0,0.0
 10534701,uccle,1180,Brussels Capital Region,house,house,for sale,1190000,3224.93,,-1,3.0,5.0,369.0,0.0,Installed,1,528.0,-1,-1,1,30.0,1,400.0,0.0,1.0
 10550352,sint-kruis,8310,West Flanders,house,villa,for sale,1195000,2489.58,Just renovated,3,4.0,5.0,480.0,0.0,Hyper equipped,3,799.0,71,7,0,0.0,1,799.0,2.0,0.0
 10408335,villers-la-ville,1495,Walloon Brabant,house,house,for sale,1200000,3000.0,Good,3,4.0,5.0,400.0,0.0,Hyper equipped,3,5000.0,410,3,1,55.0,1,9000.0,1.0,0.0
@@ -6713,7 +6713,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10485153,somme-leuze,5377,Namur,house,house,for sale,325000,2124.18,,-1,4.0,3.0,153.0,0.0,Installed,1,492.0,94,7,1,20.0,0,0.0,0.0,0.0
 10295837,oostende,8400,West Flanders,house,town house,for sale,325000,1148.41,Good,3,2.0,3.0,283.0,0.0,Installed,1,115.0,399,4,0,0.0,0,0.0,0.0,0.0
 10314522,zwevegem,8550,West Flanders,house,house,for sale,325000,2006.17,Good,3,3.0,3.0,162.0,0.0,Installed,1,393.0,298,5,0,0.0,1,178.0,0.0,0.0
-10383235,ronse,9600,East Flanders,house,house,for sale,325000,2056.96,As new,4,3.0,3.0,158.0,0.0,Installed,1,660.0,6807,1,0,0.0,1,462.0,0.0,0.0
+10383235,ronse,9600,East Flanders,house,house,for sale,325000,2056.96,As new,4,3.0,3.0,158.0,0.0,Installed,1,660.0,68,7,0,0.0,1,462.0,0.0,0.0
 10191253,sint-pieters-leeuw,1600,Flemish Brabant,house,house,for sale,330000,3300.0,To be done up,2,,2.0,100.0,0.0,Installed,1,160.0,558,2,0,0.0,1,45.0,0.0,0.0
 10528557,zottegem,9620,East Flanders,house,house,for sale,330000,1941.18,To be done up,2,,3.0,170.0,0.0,Installed,1,1267.0,362,4,0,0.0,1,,0.0,0.0
 10436873,witgoor,2480,Antwerp,house,house,for sale,335000,1947.67,,-1,3.0,3.0,172.0,0.0,Installed,1,252.0,-1,-1,1,10.0,1,166.0,0.0,0.0
@@ -7402,7 +7402,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10488896,zwalm,9630,East Flanders,house,house,for sale,535000,2675.0,To renovate,1,4.0,5.0,200.0,0.0,,-1,11331.0,630,1,1,,1,,0.0,0.0
 10433979,leopoldsburg,3971,Limburg,house,house,for sale,539000,562.63,As new,4,4.0,5.0,958.0,0.0,USA installed,1,958.0,-1,-1,1,1.0,1,1.0,0.0,0.0
 10527501,gent oostakker,9041,East Flanders,house,house,for sale,539000,2554.5,As new,4,3.0,3.0,211.0,0.0,,-1,374.0,69,7,1,,0,0.0,0.0,0.0
-10470831,antwerpen deurne,2100,Antwerp,house,house,for sale,545000,2112.4,As new,4,2.0,4.0,258.0,0.0,Hyper equipped,3,202.0,10502,1,1,23.0,0,0.0,0.0,0.0
+10470831,antwerpen deurne,2100,Antwerp,house,house,for sale,545000,2112.4,As new,4,2.0,4.0,258.0,0.0,Hyper equipped,3,202.0,105,6,1,23.0,0,0.0,0.0,0.0
 10506336,vorselaar,2290,Antwerp,house,house,for sale,545000,2329.06,,-1,4.0,3.0,234.0,0.0,USA hyper equipped,3,1683.0,174,6,1,,0,0.0,0.0,0.0
 10548202,emblem,2520,Antwerp,house,house,for sale,545000,2658.54,Good,3,4.0,3.0,205.0,0.0,,-1,1113.0,285,5,1,50.0,1,500.0,0.0,0.0
 10503804,hemiksem,2620,Antwerp,house,town house,for sale,545000,2309.32,As new,4,3.0,4.0,236.0,0.0,,-1,515.0,203,5,1,,0,0.0,0.0,0.0
@@ -7525,7 +7525,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10224798,knokke-heist,8301,West Flanders,house,villa,for sale,1650000,10645.16,As new,4,2.0,4.0,155.0,0.0,Hyper equipped,3,140.0,177,6,1,,1,90.0,0.0,0.0
 10538306,blégny,4671,Liège,house,villa,for sale,1750000,2187.5,Good,3,4.0,6.0,800.0,0.0,USA hyper equipped,3,3800.0,-1,-1,1,280.0,1,1500.0,1.0,1.0
 10379157,ixelles,1050,Brussels Capital Region,house,house,for sale,1900000,5135.14,As new,4,2.0,4.0,370.0,0.0,Hyper equipped,3,400.0,414,3,1,,0,0.0,0.0,0.0
-10466868,sint-kruis,8310,West Flanders,house,villa,for sale,2050000,7295.37,As new,4,4.0,5.0,281.0,0.0,Hyper equipped,3,1033.0,2514,1,1,,0,0.0,0.0,1.0
+10466868,sint-kruis,8310,West Flanders,house,villa,for sale,2050000,7295.37,As new,4,4.0,5.0,281.0,0.0,Hyper equipped,3,1033.0,25,7,1,,0,0.0,0.0,1.0
 10431594,rhode-saint-genese,1640,Flemish Brabant,house,exceptional property,for sale,2095000,5237.5,As new,4,4.0,4.0,400.0,0.0,,-1,2300.0,279,5,1,100.0,0,0.0,0.0,0.0
 10263384,merelbeke,9820,East Flanders,house,apartment block,for sale,2100000,3043.48,As new,4,3.0,2.0,690.0,0.0,,-1,667.0,199,6,1,,1,,0.0,0.0
 10263382,merelbeke,9820,East Flanders,house,house,for sale,2100000,3043.48,As new,4,3.0,2.0,690.0,0.0,,-1,667.0,199,6,1,,1,,0.0,0.0
@@ -8462,7 +8462,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10409251,knokke-heist,8300,West Flanders,house,villa,for sale,6395000,17377.72,As new,4,4.0,5.0,368.0,0.0,USA hyper equipped,3,1143.0,121,6,1,,1,1143.0,0.0,1.0
 10553973,dison,4821,Liège,house,house,for sale,265000,1267.94,Good,3,4.0,2.0,209.0,0.0,Hyper equipped,3,146.0,218,5,1,28.0,0,0.0,0.0,0.0
 10552557,herstal,4040,Liège,house,apartment block,for sale,295000,1798.78,To be done up,2,2.0,3.0,164.0,0.0,,-1,,412,3,1,,0,0.0,0.0,0.0
-10554285,slijpe,8433,West Flanders,house,house,for sale,320000,2000.0,As new,4,,3.0,160.0,0.0,Installed,1,134.0,7978,1,0,0.0,1,,0.0,0.0
+10554285,slijpe,8433,West Flanders,house,house,for sale,320000,2000.0,As new,4,,3.0,160.0,0.0,Installed,1,134.0,79,7,0,0.0,1,,0.0,0.0
 10554176,tienen,3300,Flemish Brabant,house,house,for sale,325000,2124.18,Good,3,3.0,4.0,153.0,0.0,,-1,298.0,647,1,1,28.0,1,134.0,0.0,0.0
 10554177,linter,3350,Flemish Brabant,house,house,for sale,325000,1737.97,Good,3,4.0,4.0,187.0,0.0,,-1,540.0,599,2,1,14.0,1,245.0,0.0,0.0
 10553961,eugies,7080,Hainaut,house,house,for sale,350000,1750.0,,-1,4.0,3.0,200.0,0.0,Installed,1,1013.0,77,7,0,0.0,1,,0.0,0.0
@@ -8966,7 +8966,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10479697,opwijk mazenzele,1745,Flemish Brabant,house,house,for sale,478000,2172.73,Just renovated,3,3.0,4.0,220.0,0.0,USA hyper equipped,3,303.0,107,6,1,,0,0.0,0.0,0.0
 10546213,oostende,8400,West Flanders,house,house,for sale,479000,2325.24,Good,3,2.0,3.0,206.0,0.0,Installed,1,50.0,143,6,1,,0,0.0,0.0,0.0
 10461873,meise,1861,Flemish Brabant,house,bungalow,for sale,480000,2790.7,Good,3,4.0,4.0,172.0,0.0,Installed,1,1091.0,462,3,1,,0,0.0,0.0,0.0
-10523162,willebroek,2830,Antwerp,house,house,for sale,485000,2755.68,As new,4,3.0,3.0,176.0,0.0,Hyper equipped,3,311.0,493,3,1,,1,160.0,0.0,0.0
+10523162,willebroek,2830,Antwerp,house,house,for sale,485000,2755.68,As new,4,3.0,3.0,176.0,0.0,Hyper equipped,3,311.0,49,7,1,,1,160.0,0.0,0.0
 10540560,brugge,8000,West Flanders,house,villa,for sale,485000,2343.0,Good,3,4.0,2.0,207.0,0.0,,-1,800.0,436,3,1,,1,500.0,0.0,0.0
 10485821,evergem,9940,East Flanders,house,house,for sale,485000,2108.7,As new,4,,4.0,230.0,0.0,Installed,1,733.0,294,5,0,0.0,1,,0.0,0.0
 10550703,harze,4920,Liège,house,villa,for sale,493000,1956.35,Good,3,4.0,5.0,252.0,0.0,Hyper equipped,3,1872.0,104,6,1,,0,0.0,0.0,0.0
@@ -9644,8 +9644,8 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10454955,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,1839000,9059.11,As new,4,2.0,3.0,203.0,0.0,Hyper equipped,3,,63,7,1,76.0,0,0.0,0.0,0.0
 10579029,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,495000,4125.0,Just renovated,3,2.0,3.0,120.0,0.0,USA installed,1,,-1,-1,1,3.0,0,0.0,0.0,0.0
 10572432,herve,4650,Liège,apartment,duplex,for sale,330000,1793.48,As new,4,2.0,3.0,184.0,0.0,USA installed,1,,158,6,0,0.0,0,0.0,0.0,0.0
-10572660,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,340000,3238.1,As new,4,3.0,2.0,105.0,0.0,USA hyper equipped,3,,4132,1,1,6.0,0,0.0,0.0,0.0
-10572658,bruxelles,1000,Brussels Capital Region,apartment,penthouse,for sale,560000,3758.39,As new,4,3.0,3.0,149.0,0.0,USA hyper equipped,3,,4465,1,1,36.0,0,0.0,0.0,0.0
+10572660,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,340000,3238.1,As new,4,3.0,2.0,105.0,0.0,USA hyper equipped,3,,41,7,1,6.0,0,0.0,0.0,0.0
+10572658,bruxelles,1000,Brussels Capital Region,apartment,penthouse,for sale,560000,3758.39,As new,4,3.0,3.0,149.0,0.0,USA hyper equipped,3,,44,7,1,36.0,0,0.0,0.0,0.0
 10570732,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,120000,4800.0,To be done up,2,2.0,1.0,25.0,0.0,,-1,,282,5,0,0.0,0,0.0,0.0,0.0
 10572149,ixelles,1050,Brussels Capital Region,apartment,flat studio,for sale,190000,4318.18,Good,3,2.0,,44.0,1.0,Semi equipped,2,,285,5,0,0.0,0,0.0,0.0,0.0
 10571419,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,225000,2647.06,As new,4,2.0,2.0,85.0,0.0,Hyper equipped,3,,202,5,1,8.0,0,0.0,0.0,0.0
@@ -9730,7 +9730,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10562911,genappe,1470,Walloon Brabant,apartment,apartment,for sale,150000,2054.79,To be done up,2,3.0,2.0,73.0,0.0,USA semi equipped,2,,418,3,0,0.0,0,0.0,0.0,0.0
 10565294,mechelen,2800,Antwerp,apartment,apartment,for sale,168000,2333.33,To renovate,1,3.0,2.0,72.0,0.0,Installed,1,,170,6,1,,0,0.0,0.0,0.0
 10562914,ganshoren,1083,Brussels Capital Region,apartment,apartment,for sale,169000,2964.91,Good,3,3.0,1.0,57.0,0.0,USA semi equipped,2,,783,1,1,2.0,0,0.0,0.0,0.0
-10352089,oudenaarde,9700,East Flanders,apartment,service flat,for sale,198000,3535.71,As new,4,,1.0,56.0,0.0,Installed,1,,9035,1,1,,0,0.0,0.0,0.0
+10352089,oudenaarde,9700,East Flanders,apartment,service flat,for sale,198000,3535.71,As new,4,,1.0,56.0,0.0,Installed,1,,90,7,1,,0,0.0,0.0,0.0
 10550931,saint-ghislain,7333,Hainaut,apartment,apartment,for sale,215000,2415.73,As new,4,,2.0,89.0,0.0,Not installed,0,,57,7,1,4.0,0,0.0,0.0,0.0
 10564522,boom,2850,Antwerp,apartment,apartment,for sale,229000,2792.68,Good,3,3.0,2.0,82.0,0.0,Semi equipped,2,,241,5,1,3.0,0,0.0,0.0,0.0
 10562910,braine-l'alleud,1420,Walloon Brabant,apartment,apartment,for sale,239000,2078.26,To renovate,1,2.0,3.0,115.0,0.0,Semi equipped,2,,351,4,1,2.0,0,0.0,0.0,0.0
@@ -9756,7 +9756,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10428214,wavre,1300,Walloon Brabant,apartment,apartment,for sale,415000,3577.59,As new,4,,2.0,116.0,0.0,Not installed,0,,112,6,1,17.0,0,0.0,0.0,0.0
 10514363,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,470000,4086.96,As new,4,2.0,3.0,115.0,0.0,USA installed,1,,145,6,1,7.0,0,0.0,0.0,0.0
 10428203,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,485000,4490.74,As new,4,,2.0,108.0,0.0,USA hyper equipped,3,,86,7,1,17.0,0,0.0,0.0,0.0
-10457573,jette,1090,Brussels Capital Region,apartment,duplex,for sale,489000,3134.62,As new,4,3.0,3.0,156.0,0.0,USA hyper equipped,3,,3668,1,1,6.0,0,0.0,0.0,0.0
+10457573,jette,1090,Brussels Capital Region,apartment,duplex,for sale,489000,3134.62,As new,4,3.0,3.0,156.0,0.0,USA hyper equipped,3,,36,7,1,6.0,0,0.0,0.0,0.0
 9910182,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,515000,3901.52,As new,4,,3.0,132.0,0.0,USA hyper equipped,3,,20,7,1,15.0,0,0.0,0.0,0.0
 9908113,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,525000,3977.27,As new,4,,3.0,132.0,0.0,USA hyper equipped,3,,20,7,1,15.0,0,0.0,0.0,0.0
 10407282,waterloo,1410,Walloon Brabant,apartment,apartment,for sale,530000,4529.91,As new,4,4.0,2.0,117.0,0.0,USA hyper equipped,3,,15,7,1,15.0,0,0.0,0.0,0.0
@@ -10484,7 +10484,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10476012,bruxelles,1000,Brussels Capital Region,apartment,penthouse,for sale,1495000,7786.46,As new,4,4.0,3.0,192.0,0.0,USA hyper equipped,3,,46,7,1,122.0,0,0.0,0.0,0.0
 8950148,sterrebeek,1933,Flemish Brabant,apartment,penthouse,for sale,1550000,7110.09,As new,4,2.0,4.0,218.0,0.0,Hyper equipped,3,,65,7,1,85.0,0,0.0,0.0,0.0
 8950252,sterrebeek,1933,Flemish Brabant,apartment,penthouse,for sale,1750000,8027.52,As new,4,2.0,3.0,218.0,0.0,Hyper equipped,3,,45,7,1,122.0,0,0.0,0.0,0.0
-10316009,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1950000,8590.31,As new,4,4.0,3.0,227.0,0.0,Hyper equipped,3,,4884,1,1,140.0,0,0.0,0.0,0.0
+10316009,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1950000,8590.31,As new,4,4.0,3.0,227.0,0.0,Hyper equipped,3,,48,7,1,140.0,0,0.0,0.0,0.0
 10442236,knokke-heist,8300,West Flanders,apartment,duplex,for sale,2350000,19421.49,As new,4,2.0,2.0,121.0,1.0,USA hyper equipped,3,,66,7,1,,0,0.0,0.0,0.0
 8943103,sterrebeek,1933,Flemish Brabant,apartment,penthouse,for sale,2950000,11434.11,As new,4,2.0,3.0,258.0,0.0,Hyper equipped,3,,55,7,1,85.0,0,0.0,0.0,0.0
 10433055,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,3297000,10809.84,As new,4,2.0,3.0,305.0,0.0,Hyper equipped,3,,63,7,1,166.0,0,0.0,0.0,0.0
@@ -10778,7 +10778,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10375143,evere,1140,Brussels Capital Region,apartment,penthouse,for sale,450000,2884.62,,-1,4.0,3.0,156.0,0.0,USA hyper equipped,3,,80,7,1,43.0,0,0.0,0.0,0.0
 10475679,evere,1140,Brussels Capital Region,apartment,apartment,for sale,459000,3956.9,As new,4,2.0,3.0,116.0,0.0,USA hyper equipped,3,,37,7,1,6.0,0,0.0,0.0,0.0
 10011499,bruxelles,1000,Brussels Capital Region,apartment,duplex,for sale,460000,3129.25,,-1,2.0,3.0,147.0,0.0,USA hyper equipped,3,,120,6,1,52.0,0,0.0,0.0,0.0
-10457572,jette,1090,Brussels Capital Region,apartment,ground floor,for sale,479000,4165.22,As new,4,3.0,3.0,115.0,0.0,USA hyper equipped,3,,3765,1,1,15.0,1,82.0,0.0,0.0
+10457572,jette,1090,Brussels Capital Region,apartment,ground floor,for sale,479000,4165.22,As new,4,3.0,3.0,115.0,0.0,USA hyper equipped,3,,37,7,1,15.0,1,82.0,0.0,0.0
 9792190,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,485000,4532.71,As new,4,,2.0,107.0,0.0,USA hyper equipped,3,,95,7,1,17.0,0,0.0,0.0,0.0
 10475748,evere,1140,Brussels Capital Region,apartment,penthouse,for sale,489000,4527.78,As new,4,2.0,3.0,108.0,0.0,USA hyper equipped,3,,39,7,1,14.0,0,0.0,0.0,0.0
 10563228,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,489999,4260.86,As new,4,2.0,3.0,115.0,0.0,Installed,1,,80,7,1,27.0,0,0.0,0.0,0.0
@@ -10790,7 +10790,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10428201,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,645000,4886.36,As new,4,,3.0,132.0,0.0,USA hyper equipped,3,,114,6,1,16.0,1,86.0,0.0,0.0
 10448483,grez-doiceau,1390,Walloon Brabant,apartment,apartment,for sale,655000,4171.97,,-1,,3.0,157.0,0.0,Installed,1,,78,7,1,23.0,1,,0.0,0.0
 10426259,grez-doiceau,1390,Walloon Brabant,apartment,apartment,for sale,699000,3512.56,,-1,,3.0,199.0,0.0,Installed,1,,82,7,1,16.0,1,,0.0,0.0
-10454958,kraainem,1950,Flemish Brabant,apartment,duplex,for sale,995000,5751.45,As new,4,2.0,3.0,173.0,0.0,USA hyper equipped,3,,5103,1,1,8.0,0,0.0,0.0,0.0
+10454958,kraainem,1950,Flemish Brabant,apartment,duplex,for sale,995000,5751.45,As new,4,2.0,3.0,173.0,0.0,USA hyper equipped,3,,51,7,1,8.0,0,0.0,0.0,0.0
 10418500,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1340000,7486.03,,-1,4.0,3.0,179.0,0.0,USA hyper equipped,3,,75,7,1,36.0,0,0.0,0.0,0.0
 8973594,ixelles,1050,Brussels Capital Region,apartment,penthouse,for sale,1900000,6643.36,,-1,2.0,3.0,286.0,0.0,USA hyper equipped,3,,80,7,1,59.0,0,0.0,0.0,0.0
 10458516,uccle,1180,Brussels Capital Region,apartment,triplex,for sale,2600000,6933.33,As new,4,4.0,3.0,375.0,0.0,USA hyper equipped,3,,55,7,1,68.0,1,750.0,0.0,0.0
@@ -11072,7 +11072,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10523956,virton,6760,Luxembourg,apartment,apartment,for sale,285000,3313.95,,-1,,2.0,86.0,0.0,Not installed,0,,74,7,1,6.0,0,0.0,0.0,0.0
 10536963,zaventem,1930,Flemish Brabant,apartment,apartment,for sale,344000,4195.12,As new,4,3.0,2.0,82.0,0.0,USA hyper equipped,3,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10523957,virton,6760,Luxembourg,apartment,penthouse,for sale,407000,3420.17,,-1,,3.0,119.0,0.0,Not installed,0,,107,6,1,7.0,0,0.0,0.0,0.0
-10299246,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,flat studio,for sale,475000,10326.09,As new,4,4.0,,46.0,0.0,USA hyper equipped,3,,32282,1,1,8.0,0,0.0,0.0,0.0
+10299246,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,flat studio,for sale,475000,10326.09,As new,4,4.0,,46.0,0.0,USA hyper equipped,3,,322,4,1,8.0,0,0.0,0.0,0.0
 10569401,sint-denijs-westrem,9051,East Flanders,apartment,apartment,for sale,240000,3809.52,,-1,1.0,1.0,63.0,0.0,Hyper equipped,3,,25,7,1,10.0,1,,0.0,0.0
 10552063,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,335000,3722.22,As new,4,2.0,2.0,90.0,0.0,USA installed,1,,204,5,1,3.0,0,0.0,0.0,0.0
 10570878,roeselare,8800,West Flanders,apartment,apartment,for sale,140000,1308.41,To be done up,2,,2.0,107.0,0.0,Semi equipped,2,,132,6,1,,0,0.0,0.0,0.0
@@ -11162,7 +11162,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10559551,westende,8434,West Flanders,apartment,apartment,for sale,459000,4590.0,As new,4,,2.0,100.0,0.0,Hyper equipped,3,,152,6,0,0.0,0,0.0,0.0,0.0
 10557779,la hulpe,1310,Walloon Brabant,apartment,duplex,for sale,558000,4292.31,As new,4,4.0,2.0,130.0,0.0,USA hyper equipped,3,,76,7,1,5.0,0,0.0,0.0,0.0
 10560067,kortrijk,8500,West Flanders,apartment,apartment,for sale,590000,4796.75,As new,4,,2.0,123.0,0.0,Hyper equipped,3,,94,7,1,10.0,0,0.0,0.0,0.0
-10578419,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1950000,8590.31,As new,4,4.0,3.0,227.0,0.0,USA installed,1,,4884,1,1,140.0,0,0.0,0.0,0.0
+10578419,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1950000,8590.31,As new,4,4.0,3.0,227.0,0.0,USA installed,1,,48,7,1,140.0,0,0.0,0.0,0.0
 10577751,antwerp,2060,Antwerp,apartment,flat studio,for sale,165000,5500.0,Good,3,2.0,1.0,30.0,0.0,Hyper equipped,3,,-1,-1,1,6.0,0,0.0,0.0,0.0
 10577053,nivelles,1400,Walloon Brabant,apartment,duplex,for sale,425000,2500.0,Good,3,2.0,3.0,170.0,0.0,USA hyper equipped,3,,300,4,1,32.0,1,40.0,0.0,0.0
 10566181,waterloo,1410,Walloon Brabant,apartment,apartment,for sale,849700,5412.1,As new,4,3.0,3.0,157.0,0.0,Hyper equipped,3,,17,7,1,16.0,0,0.0,0.0,0.0
@@ -11544,7 +11544,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10126045,dilbeek,1702,Flemish Brabant,apartment,apartment,for sale,210000,3134.33,As new,4,2.0,1.0,67.0,0.0,USA hyper equipped,3,,173,6,0,0.0,0,0.0,0.0,0.0
 10504288,ans,4430,Liège,apartment,apartment,for sale,210000,1842.11,Good,3,,2.0,114.0,0.0,Installed,1,,334,4,1,16.0,0,0.0,0.0,0.0
 10531247,forest,1190,Brussels Capital Region,apartment,apartment,for sale,215000,3307.69,To be done up,2,2.0,1.0,65.0,0.0,Installed,1,,87,7,1,,0,0.0,0.0,0.0
-9918618,wezembeek-oppem,1970,Flemish Brabant,apartment,service flat,for sale,215000,3307.69,Good,3,,1.0,65.0,0.0,Hyper equipped,3,,12396,1,1,5.0,0,0.0,0.0,0.0
+9918618,wezembeek-oppem,1970,Flemish Brabant,apartment,service flat,for sale,215000,3307.69,Good,3,,1.0,65.0,0.0,Hyper equipped,3,,123,6,1,5.0,0,0.0,0.0,0.0
 10543211,woluwe-saint-lambert,1200,Brussels Capital Region,apartment,flat studio,for sale,219000,5093.02,Just renovated,3,2.0,,43.0,0.0,Hyper equipped,3,,720,1,1,16.0,0,0.0,0.0,0.0
 10513205,antwerp,2660,Antwerp,apartment,apartment,for sale,219000,2488.64,As new,4,,2.0,88.0,0.0,Installed,1,,382,4,0,0.0,0,0.0,0.0,0.0
 10441200,koekelberg,1081,Brussels Capital Region,apartment,apartment,for sale,220000,2820.51,,-1,,3.0,78.0,0.0,USA installed,1,,113,6,1,14.0,0,0.0,0.0,0.0
@@ -11610,7 +11610,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10509969,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,329000,2990.91,To renovate,1,2.0,3.0,110.0,0.0,USA installed,1,,196,6,1,10.0,0,0.0,0.0,0.0
 9835315,zaventem,1932,Flemish Brabant,apartment,apartment,for sale,330000,3142.86,As new,4,2.0,2.0,105.0,0.0,USA hyper equipped,3,,133,6,0,0.0,0,0.0,0.0,0.0
 10533155,groot-bijgaarden,1702,Flemish Brabant,apartment,apartment,for sale,335000,4240.51,Good,3,3.0,2.0,79.0,0.0,Semi equipped,2,,270,5,1,,1,,0.0,0.0
-9995972,knokke-heist,8300,West Flanders,apartment,apartment,for sale,339000,4084.34,As new,4,,1.0,83.0,0.0,Hyper equipped,3,,8372,1,0,0.0,0,0.0,0.0,0.0
+9995972,knokke-heist,8300,West Flanders,apartment,apartment,for sale,339000,4084.34,As new,4,,1.0,83.0,0.0,Hyper equipped,3,,83,7,0,0.0,0,0.0,0.0,0.0
 10543507,blankenberge,8370,West Flanders,apartment,apartment,for sale,339000,3645.16,As new,4,,2.0,93.0,1.0,Hyper equipped,3,,88,7,1,,0,0.0,0.0,0.0
 10343449,ottignies,1340,Walloon Brabant,apartment,apartment,for sale,345000,3593.75,Good,3,2.0,2.0,96.0,0.0,,-1,,108,6,1,4.0,0,0.0,0.0,0.0
 10449986,liège,4020,Liège,apartment,penthouse,for sale,345000,3080.36,Good,3,,2.0,112.0,0.0,USA hyper equipped,3,,125,6,1,50.0,0,0.0,0.0,0.0
@@ -11627,7 +11627,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10511853,antwerp,2000,Antwerp,apartment,apartment,for sale,399000,3990.0,As new,4,,2.0,100.0,0.0,Hyper equipped,3,,113,6,1,30.0,0,0.0,0.0,0.0
 10483922,bruxelles,1000,Brussels Capital Region,apartment,ground floor,for sale,400000,3773.58,Good,3,2.0,2.0,106.0,1.0,USA hyper equipped,3,,124,6,1,11.0,1,40.0,0.0,0.0
 10512469,oostende,8400,West Flanders,apartment,apartment,for sale,419000,4457.45,Good,3,,2.0,94.0,0.0,Hyper equipped,3,,102,6,0,0.0,0,0.0,0.0,0.0
-10522924,de haan,8420,West Flanders,apartment,apartment,for sale,425000,4775.28,As new,4,,2.0,89.0,1.0,Hyper equipped,3,,9232,1,1,6.0,0,0.0,0.0,0.0
+10522924,de haan,8420,West Flanders,apartment,apartment,for sale,425000,4775.28,As new,4,,2.0,89.0,1.0,Hyper equipped,3,,92,7,1,6.0,0,0.0,0.0,0.0
 10075178,oostende,8400,West Flanders,apartment,apartment,for sale,435000,1526.32,Good,3,,5.0,285.0,0.0,Installed,1,,390,4,1,130.0,0,0.0,0.0,0.0
 10404065,waterloo,1410,Walloon Brabant,apartment,apartment,for sale,449000,3453.85,As new,4,2.0,2.0,130.0,0.0,USA hyper equipped,3,,220,5,1,27.0,1,250.0,0.0,0.0
 10440019,oostende,8400,West Flanders,apartment,apartment,for sale,449000,4196.26,Good,3,,3.0,107.0,0.0,Installed,1,,183,6,1,,0,0.0,0.0,0.0
@@ -11645,7 +11645,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10548718,blankenberge,8370,West Flanders,apartment,apartment,for sale,525000,4200.0,Good,3,,3.0,125.0,0.0,Installed,1,,93,7,1,4.0,0,0.0,0.0,0.0
 10285601,sint-idesbald,8670,West Flanders,apartment,apartment,for sale,525000,7000.0,As new,4,,2.0,75.0,0.0,Hyper equipped,3,,93,7,1,52.0,0,0.0,0.0,0.0
 9990181,blankenberge,8370,West Flanders,apartment,apartment,for sale,549000,5278.85,Good,3,,3.0,104.0,1.0,Hyper equipped,3,,125,6,1,,0,0.0,0.0,0.0
-10511952,oostrozebeke,8780,West Flanders,apartment,duplex,for sale,549000,2025.83,As new,4,,3.0,271.0,0.0,Hyper equipped,3,,8504,1,1,,0,0.0,0.0,0.0
+10511952,oostrozebeke,8780,West Flanders,apartment,duplex,for sale,549000,2025.83,As new,4,,3.0,271.0,0.0,Hyper equipped,3,,85,7,1,,0,0.0,0.0,0.0
 10425706,oostende,8400,West Flanders,apartment,penthouse,for sale,550000,6111.11,As new,4,,2.0,90.0,0.0,Hyper equipped,3,,197,6,1,70.0,0,0.0,0.0,0.0
 10480579,oud-turnhout,2360,Antwerp,apartment,apartment,for sale,555000,2617.92,Good,3,4.0,3.0,212.0,0.0,Installed,1,,179,6,1,,1,,0.0,0.0
 10536053,brussels city,1000,Brussels Capital Region,apartment,penthouse,for sale,560000,3971.63,,-1,2.0,3.0,141.0,0.0,USA installed,1,,753,1,1,6.0,0,0.0,1.0,0.0
@@ -11662,7 +11662,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 8413418,liège,4000,Liège,apartment,apartment,for sale,830000,2964.29,As new,4,,2.0,280.0,0.0,Hyper equipped,3,,95,7,1,38.0,0,0.0,0.0,0.0
 10472725,knokke-heist,8300,West Flanders,apartment,apartment,for sale,890000,7478.99,Good,3,2.0,3.0,119.0,0.0,Hyper equipped,3,,340,4,1,28.0,0,0.0,0.0,0.0
 10484190,knokke-heist,8301,West Flanders,apartment,apartment,for sale,890000,7478.99,Good,3,2.0,3.0,119.0,0.0,Hyper equipped,3,,340,4,1,28.0,0,0.0,0.0,0.0
-10209440,antwerp,2000,Antwerp,apartment,apartment,for sale,950000,5277.78,As new,4,4.0,2.0,180.0,0.0,Hyper equipped,3,,9276,1,1,48.0,0,0.0,0.0,0.0
+10209440,antwerp,2000,Antwerp,apartment,apartment,for sale,950000,5277.78,As new,4,4.0,2.0,180.0,0.0,Hyper equipped,3,,92,7,1,48.0,0,0.0,0.0,0.0
 10551412,brasschaat,2930,Antwerp,apartment,apartment,for sale,995000,3178.91,Good,3,2.0,3.0,313.0,0.0,Installed,1,,195,6,1,,0,0.0,0.0,0.0
 10357985,oostkamp,8020,West Flanders,apartment,apartment,for sale,1000000,9433.96,Good,3,,2.0,106.0,0.0,Semi equipped,2,,282,5,0,0.0,0,0.0,0.0,0.0
 10544944,gent,9000,East Flanders,apartment,penthouse,for sale,1050000,5865.92,As new,4,2.0,3.0,179.0,0.0,Installed,1,,-1,-1,1,39.0,0,0.0,0.0,0.0
@@ -11682,7 +11682,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10568687,anderlecht,1070,Brussels Capital Region,apartment,triplex,for sale,559000,1857.14,Good,3,4.0,,301.0,0.0,Semi equipped,2,,197,6,0,0.0,0,0.0,0.0,0.0
 10576288,ixelles,1050,Brussels Capital Region,apartment,penthouse,for sale,715000,5458.02,As new,4,,2.0,131.0,0.0,USA hyper equipped,3,,-1,-1,1,39.0,0,0.0,0.0,0.0
 10576287,auderghem,1160,Brussels Capital Region,apartment,penthouse,for sale,715000,5458.02,As new,4,,2.0,131.0,0.0,USA hyper equipped,3,,-1,-1,1,39.0,0,0.0,0.0,0.0
-10574988,blankenberge,8370,West Flanders,apartment,apartment,for sale,245000,2848.84,Good,3,,2.0,86.0,0.0,Installed,1,,14179,1,1,6.0,0,0.0,0.0,0.0
+10574988,blankenberge,8370,West Flanders,apartment,apartment,for sale,245000,2848.84,Good,3,,2.0,86.0,0.0,Installed,1,,141,6,1,6.0,0,0.0,0.0,0.0
 10572368,aalst,9300,East Flanders,apartment,duplex,for sale,329000,2350.0,As new,4,,2.0,140.0,1.0,Hyper equipped,3,,314,4,1,22.0,0,0.0,0.0,0.0
 10556869,forest,1190,Brussels Capital Region,apartment,apartment,for sale,245000,2848.84,To be done up,2,2.0,2.0,86.0,0.0,,-1,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10558631,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,272000,4121.21,,-1,2.0,1.0,66.0,0.0,USA hyper equipped,3,,44,7,1,6.0,0,0.0,0.0,0.0
@@ -11731,7 +11731,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10455265,braine-l'alleud,1420,Walloon Brabant,apartment,apartment,for sale,430000,3412.7,,-1,4.0,3.0,126.0,0.0,USA hyper equipped,3,,93,7,1,14.0,0,0.0,0.0,0.0
 10520645,liedekerke,1770,Flemish Brabant,apartment,apartment,for sale,445000,4450.0,,-1,4.0,2.0,100.0,0.0,Hyper equipped,3,,-1,-1,1,31.0,0,0.0,0.0,0.0
 10498759,ottignies-louvain-la-neuve louvain-la-neuve,1348,Walloon Brabant,apartment,apartment,for sale,470000,3884.3,As new,4,,3.0,121.0,0.0,Not installed,0,,-1,-1,1,25.0,0,0.0,0.0,0.0
-10454956,kraainem,1950,Flemish Brabant,apartment,apartment,for sale,545000,6055.56,As new,4,2.0,2.0,90.0,0.0,USA hyper equipped,3,,4506,1,1,14.0,0,0.0,0.0,0.0
+10454956,kraainem,1950,Flemish Brabant,apartment,apartment,for sale,545000,6055.56,As new,4,2.0,2.0,90.0,0.0,USA hyper equipped,3,,45,7,1,14.0,0,0.0,0.0,0.0
 10420117,kraainem,1950,Flemish Brabant,apartment,apartment,for sale,545000,6055.56,As new,4,2.0,2.0,90.0,0.0,USA hyper equipped,3,,70,7,1,14.0,0,0.0,0.0,0.0
 10564542,gent centrum,9000,East Flanders,apartment,penthouse,for sale,575000,7012.2,,-1,2.0,2.0,82.0,0.0,Hyper equipped,3,,-1,-1,1,7.0,0,0.0,0.0,0.0
 10564541,gent centrum,9000,East Flanders,apartment,apartment,for sale,695000,6747.57,,-1,2.0,2.0,103.0,0.0,Hyper equipped,3,,-1,-1,1,12.0,0,0.0,0.0,0.0
@@ -11740,7 +11740,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10486526,uccle,1180,Brussels Capital Region,apartment,penthouse,for sale,925000,6607.14,As new,4,,2.0,140.0,0.0,USA hyper equipped,3,,55,7,1,30.0,0,0.0,0.0,0.0
 10564540,gent centrum,9000,East Flanders,apartment,apartment,for sale,925000,7061.07,,-1,2.0,2.0,131.0,0.0,Hyper equipped,3,,-1,-1,1,22.0,0,0.0,0.0,0.0
 9683164,uccle,1180,Brussels Capital Region,apartment,duplex,for sale,1630000,8150.0,,-1,4.0,3.0,200.0,0.0,USA hyper equipped,3,,-1,-1,1,73.0,0,0.0,1.0,0.0
-10567230,knokke-heist,8300,West Flanders,apartment,ground floor,for sale,699000,9320.0,As new,4,4.0,2.0,75.0,0.0,USA installed,1,,11114,1,1,25.0,1,45.0,0.0,0.0
+10567230,knokke-heist,8300,West Flanders,apartment,ground floor,for sale,699000,9320.0,As new,4,4.0,2.0,75.0,0.0,USA installed,1,,111,6,1,25.0,1,45.0,0.0,0.0
 10567232,knokke-heist,8300,West Flanders,apartment,ground floor,for sale,1099000,10990.0,As new,4,4.0,2.0,100.0,0.0,USA hyper equipped,3,,111,6,1,40.0,1,77.0,0.0,0.0
 10571787,saint-hubert,6870,Luxembourg,apartment,ground floor,for sale,150000,867.05,Just renovated,3,2.0,2.0,173.0,0.0,Semi equipped,2,,235,5,1,74.0,0,0.0,0.0,0.0
 10570950,liège,4000,Liège,apartment,apartment,for sale,214000,2118.81,Good,3,,2.0,101.0,0.0,Hyper equipped,3,,158,6,0,0.0,0,0.0,0.0,0.0
@@ -11887,7 +11887,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9765081,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,1495000,8591.95,As new,4,2.0,3.0,174.0,0.0,USA hyper equipped,3,,58,7,1,45.0,0,0.0,0.0,0.0
 10551987,uccle,1180,Brussels Capital Region,apartment,penthouse,for sale,1450000,10139.86,As new,4,3.0,2.0,143.0,0.0,Hyper equipped,3,,84,7,1,120.0,0,0.0,0.0,0.0
 10569969,schaerbeek,1030,Brussels Capital Region,apartment,ground floor,for sale,205000,2050.0,To renovate,1,,2.0,100.0,0.0,,-1,,506,2,0,0.0,1,30.0,0.0,0.0
-10575964,wezembeek-oppem,1970,Flemish Brabant,apartment,service flat,for sale,175000,2916.67,As new,4,2.0,1.0,60.0,0.0,USA installed,1,,13152,1,1,,0,0.0,0.0,0.0
+10575964,wezembeek-oppem,1970,Flemish Brabant,apartment,service flat,for sale,175000,2916.67,As new,4,2.0,1.0,60.0,0.0,USA installed,1,,131,6,1,,0,0.0,0.0,0.0
 10533644,zottegem,9620,East Flanders,apartment,apartment,for sale,217500,2416.67,As new,4,,2.0,90.0,0.0,Installed,1,,114,6,1,,0,0.0,0.0,0.0
 10576696,mechelen,2800,Antwerp,apartment,apartment,for sale,225000,2586.21,Good,3,,2.0,87.0,0.0,Installed,1,,142,6,1,15.0,0,0.0,0.0,0.0
 10575635,gent,9000,East Flanders,apartment,apartment,for sale,275000,3273.81,As new,4,,2.0,84.0,0.0,Installed,1,,166,6,1,2.0,0,0.0,0.0,0.0
@@ -11972,14 +11972,14 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10358190,schaerbeek,1030,Brussels Capital Region,apartment,flat studio,for sale,210000,3281.25,To be done up,2,2.0,,64.0,0.0,Installed,1,,108,6,1,2.0,0,0.0,0.0,0.0
 10252733,molenbeek-saint-jean,1080,Brussels Capital Region,apartment,apartment,for sale,210000,2957.75,Good,3,2.0,2.0,71.0,0.0,Hyper equipped,3,,165,6,0,0.0,0,0.0,0.0,0.0
 10061760,forest,1190,Brussels Capital Region,apartment,apartment,for sale,210000,2386.36,To be done up,2,,2.0,88.0,0.0,Installed,1,,209,5,1,2.0,0,0.0,0.0,0.0
-10418346,ronse,9600,East Flanders,apartment,apartment,for sale,212000,3028.57,As new,4,,2.0,70.0,0.0,Hyper equipped,3,,977,1,0,0.0,0,0.0,0.0,0.0
+10418346,ronse,9600,East Flanders,apartment,apartment,for sale,212000,3028.57,As new,4,,2.0,70.0,0.0,Hyper equipped,3,,97,7,0,0.0,0,0.0,0.0,0.0
 10404234,duffel,2570,Antwerp,apartment,apartment,for sale,214000,2140.0,Good,3,2.0,3.0,100.0,0.0,Semi equipped,2,,173,6,1,,1,,0.0,0.0
 10489129,molenbeek-saint-jean,1080,Brussels Capital Region,apartment,apartment,for sale,215000,2028.3,Good,3,2.0,2.0,106.0,0.0,Not installed,0,,176,6,1,2.0,0,0.0,0.0,0.0
 9622976,koekelberg,1081,Brussels Capital Region,apartment,apartment,for sale,215000,2216.49,To renovate,1,2.0,2.0,97.0,0.0,Not installed,0,,179,6,1,,0,0.0,0.0,0.0
 10496032,antwerp,2020,Antwerp,apartment,apartment,for sale,215000,3307.69,Just renovated,3,2.0,2.0,65.0,0.0,Installed,1,,264,5,1,12.0,0,0.0,0.0,0.0
 10483579,brugge,8000,West Flanders,apartment,ground floor,for sale,215000,3359.38,As new,4,2.0,1.0,64.0,0.0,Installed,1,,228,5,0,0.0,0,0.0,0.0,0.0
 10524424,roeselare,8800,West Flanders,apartment,apartment,for sale,215000,2756.41,As new,4,,2.0,78.0,0.0,Hyper equipped,3,,55,7,1,10.0,0,0.0,0.0,0.0
-10386023,deinze,9800,East Flanders,apartment,apartment,for sale,215000,3981.48,As new,4,,1.0,54.0,0.0,Hyper equipped,3,,7734,1,1,10.0,0,0.0,0.0,0.0
+10386023,deinze,9800,East Flanders,apartment,apartment,for sale,215000,3981.48,As new,4,,1.0,54.0,0.0,Hyper equipped,3,,77,7,1,10.0,0,0.0,0.0,0.0
 10509328,molenbeek-saint-jean,1080,Brussels Capital Region,apartment,apartment,for sale,219000,2488.64,To be done up,2,2.0,2.0,88.0,0.0,Hyper equipped,3,,125,6,1,3.0,0,0.0,0.0,0.0
 10453592,vilvoorde,1800,Flemish Brabant,apartment,apartment,for sale,220000,2315.79,Good,3,2.0,2.0,95.0,0.0,Semi equipped,2,,212,5,1,3.0,0,0.0,0.0,0.0
 9334513,meerbeke,9402,East Flanders,apartment,apartment,for sale,224000,2698.8,As new,4,,1.0,83.0,0.0,Hyper equipped,3,,30,7,1,6.0,0,0.0,0.0,0.0
@@ -12005,7 +12005,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10542287,schaerbeek,1030,Brussels Capital Region,apartment,apartment,for sale,250000,2380.95,To renovate,1,2.0,1.0,105.0,0.0,Installed,1,,571,2,0,0.0,1,115.0,0.0,0.0
 10503214,evere,1140,Brussels Capital Region,apartment,penthouse,for sale,250000,3125.0,,-1,,2.0,80.0,0.0,Semi equipped,2,,182,6,1,20.0,0,0.0,0.0,0.0
 10543213,wezembeek-oppem,1970,Flemish Brabant,apartment,apartment,for sale,250000,2475.25,To renovate,1,2.0,2.0,101.0,0.0,Installed,1,,251,5,1,11.0,0,0.0,0.0,0.0
-9677978,koksijde,8670,West Flanders,apartment,apartment,for sale,250000,4098.36,As new,4,,1.0,61.0,0.0,Hyper equipped,3,,673,1,0,0.0,0,0.0,0.0,0.0
+9677978,koksijde,8670,West Flanders,apartment,apartment,for sale,250000,4098.36,As new,4,,1.0,61.0,0.0,Hyper equipped,3,,67,7,0,0.0,0,0.0,0.0,0.0
 10550567,dilbeek,1701,Flemish Brabant,apartment,apartment,for sale,259000,3120.48,As new,4,,2.0,83.0,0.0,Installed,1,,452,3,0,0.0,0,0.0,0.0,0.0
 10422298,hingeon,5380,Namur,apartment,apartment,for sale,259000,2514.56,,-1,4.0,2.0,103.0,0.0,Installed,1,,56,7,1,10.0,0,0.0,0.0,0.0
 10412568,evere,1140,Brussels Capital Region,apartment,apartment,for sale,260000,3250.0,Good,3,,2.0,80.0,0.0,Installed,1,,258,5,1,13.0,0,0.0,0.0,0.0
@@ -12183,7 +12183,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10412544,woluwe-saint-lambert,1200,Brussels Capital Region,apartment,apartment,for sale,799500,3431.33,As new,4,2.0,3.0,233.0,0.0,USA semi equipped,2,,45,7,1,42.0,1,69.0,0.0,0.0
 10551492,knokke-heist knokke,8300,West Flanders,apartment,apartment,for sale,835000,7324.56,Good,3,2.0,3.0,114.0,0.0,,-1,,137,6,1,,0,0.0,0.0,0.0
 10430785,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,840000,3320.16,As new,4,2.0,4.0,253.0,0.0,Hyper equipped,3,,182,6,1,,0,0.0,0.0,0.0
-10379602,brugge,8000,West Flanders,apartment,apartment,for sale,840000,4158.42,Good,3,2.0,3.0,202.0,0.0,,-1,,15353,1,0,0.0,1,,0.0,0.0
+10379602,brugge,8000,West Flanders,apartment,apartment,for sale,840000,4158.42,Good,3,2.0,3.0,202.0,0.0,,-1,,153,6,0,0.0,1,,0.0,0.0
 10282280,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,850000,4722.22,Good,3,2.0,3.0,180.0,0.0,Installed,1,,131,6,1,38.0,0,0.0,0.0,0.0
 10521386,gent,9000,East Flanders,apartment,apartment,for sale,850000,4166.67,,-1,,4.0,204.0,0.0,Not installed,0,,138,6,1,60.0,0,0.0,0.0,0.0
 10521385,gent,9000,East Flanders,apartment,apartment,for sale,850000,4166.67,,-1,,4.0,204.0,0.0,Not installed,0,,138,6,1,60.0,0,0.0,0.0,0.0
@@ -12207,7 +12207,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10514748,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1995000,7125.0,As new,4,,3.0,280.0,0.0,Hyper equipped,3,,108,6,1,34.0,0,0.0,0.0,0.0
 9995272,ixelles,1050,Brussels Capital Region,apartment,penthouse,for sale,2100000,4708.52,As new,4,4.0,3.0,446.0,0.0,Hyper equipped,3,,443,3,1,100.0,0,0.0,0.0,0.0
 10012566,knokke-heist,8300,West Flanders,apartment,duplex,for sale,3995000,16306.12,As new,4,3.0,4.0,245.0,0.0,USA hyper equipped,3,,351,4,1,50.0,1,250.0,0.0,1.0
-9502819,knokke-heist knokke,8300,West Flanders,apartment,apartment,for sale,4600000,28220.86,As new,4,2.0,3.0,163.0,0.0,Hyper equipped,3,,9469,1,1,17.0,0,0.0,0.0,0.0
+9502819,knokke-heist knokke,8300,West Flanders,apartment,apartment,for sale,4600000,28220.86,As new,4,2.0,3.0,163.0,0.0,Hyper equipped,3,,94,7,1,17.0,0,0.0,0.0,0.0
 10572074,nazareth,9810,East Flanders,apartment,apartment,for sale,405000,2913.67,,-1,4.0,3.0,139.0,0.0,Hyper equipped,3,,1,7,1,22.0,1,36.0,0.0,0.0
 10555065,herselt,2230,Antwerp,apartment,apartment,for sale,235225,3054.87,As new,4,3.0,1.0,77.0,0.0,,-1,,-1,-1,1,15.0,0,0.0,0.0,0.0
 10555061,herselt,2230,Antwerp,apartment,apartment,for sale,290960,2880.79,As new,4,2.0,2.0,101.0,0.0,,-1,,-1,-1,1,18.0,0,0.0,0.0,0.0
@@ -12340,7 +12340,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10489745,bruxelles,1000,Brussels Capital Region,apartment,duplex,for sale,420000,3652.17,Just renovated,3,2.0,2.0,115.0,0.0,USA hyper equipped,3,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10476744,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,445000,5000.0,Good,3,4.0,2.0,89.0,1.0,,-1,,64,7,1,8.0,0,0.0,0.0,0.0
 10487358,oostende,8400,West Flanders,apartment,apartment,for sale,450000,3237.41,Good,3,,3.0,139.0,0.0,Installed,1,,267,5,0,0.0,0,0.0,0.0,0.0
-10317373,bierbeek,3360,Flemish Brabant,apartment,apartment,for sale,485000,3169.93,As new,4,,3.0,153.0,0.0,Hyper equipped,3,,4834,1,1,,0,0.0,0.0,0.0
+10317373,bierbeek,3360,Flemish Brabant,apartment,apartment,for sale,485000,3169.93,As new,4,,3.0,153.0,0.0,Hyper equipped,3,,48,7,1,,0,0.0,0.0,0.0
 10531807,ixelles,1050,Brussels Capital Region,apartment,ground floor,for sale,495000,4125.0,As new,4,3.0,2.0,120.0,0.0,USA hyper equipped,3,,176,6,1,12.0,0,0.0,0.0,0.0
 10346586,woluwe-saint-lambert,1200,Brussels Capital Region,apartment,ground floor,for sale,499000,3261.44,Good,3,2.0,3.0,153.0,0.0,Not installed,0,,-1,-1,1,10.0,0,0.0,0.0,0.0
 10535735,diepenbeek,3590,Limburg,apartment,apartment,for sale,499260,3180.0,,-1,2.0,3.0,157.0,0.0,Installed,1,,-1,-1,1,20.0,1,,0.0,0.0
@@ -12674,7 +12674,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10124208,bruxelles,1000,Brussels Capital Region,apartment,penthouse,for sale,795000,4297.3,As new,4,2.0,2.0,185.0,0.0,Installed,1,,159,6,1,90.0,0,0.0,0.0,0.0
 10180619,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,795000,6625.0,As new,4,2.0,3.0,120.0,0.0,Hyper equipped,3,,65,7,1,22.0,0,0.0,0.0,0.0
 10524054,uccle,1180,Brussels Capital Region,apartment,penthouse,for sale,795000,4542.86,Good,3,3.0,3.0,175.0,0.0,Hyper equipped,3,,186,6,1,40.0,0,0.0,0.0,0.0
-10267583,antwerp,2000,Antwerp,apartment,apartment,for sale,849000,5306.25,As new,4,,3.0,160.0,0.0,USA hyper equipped,3,,6329,1,1,20.0,0,0.0,0.0,0.0
+10267583,antwerp,2000,Antwerp,apartment,apartment,for sale,849000,5306.25,As new,4,,3.0,160.0,0.0,USA hyper equipped,3,,63,7,1,20.0,0,0.0,0.0,0.0
 10479443,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,850000,4829.55,As new,4,2.0,3.0,176.0,0.0,USA hyper equipped,3,,163,6,1,12.0,0,0.0,0.0,0.0
 9426951,knokke-heist,8300,West Flanders,apartment,apartment,for sale,940000,15161.29,As new,4,,2.0,62.0,0.0,USA hyper equipped,3,,153,6,0,0.0,0,0.0,0.0,0.0
 10483556,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,975000,5104.71,Good,3,,3.0,191.0,0.0,Installed,1,,482,3,1,75.0,0,0.0,0.0,0.0
@@ -12744,7 +12744,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10559339,ganshoren,1083,Brussels Capital Region,apartment,apartment,for sale,215000,3583.33,As new,4,,1.0,60.0,0.0,,-1,,345,4,0,0.0,0,0.0,0.0,0.0
 10559029,sint-pieters-woluwe,1150,Brussels Capital Region,apartment,apartment,for sale,360000,3272.73,Good,3,2.0,3.0,110.0,0.0,Hyper equipped,3,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10578758,puurs sint-amands,2870,Antwerp,apartment,service flat,for sale,180000,3333.33,As new,4,1.0,1.0,54.0,0.0,USA hyper equipped,3,,-1,-1,1,5.0,0,0.0,0.0,0.0
-10578418,uccle,1180,Brussels Capital Region,apartment,ground floor,for sale,1690000,8407.96,As new,4,4.0,3.0,201.0,0.0,USA installed,1,,5667,1,1,40.0,1,376.0,0.0,0.0
+10578418,uccle,1180,Brussels Capital Region,apartment,ground floor,for sale,1690000,8407.96,As new,4,4.0,3.0,201.0,0.0,USA installed,1,,56,7,1,40.0,1,376.0,0.0,0.0
 10577338,mouscron,7700,Hainaut,apartment,apartment,for sale,139000,3088.89,Just renovated,3,3.0,1.0,45.0,0.0,Semi equipped,2,,226,5,1,4.0,0,0.0,0.0,0.0
 10564254,engis,4480,Liège,apartment,apartment,for sale,115000,1533.33,Good,3,3.0,2.0,75.0,0.0,Installed,1,,163,6,0,0.0,1,1500.0,0.0,0.0
 10512508,soignies,7060,Hainaut,apartment,apartment,for sale,157000,3488.89,As new,4,3.0,1.0,45.0,0.0,Hyper equipped,3,,-1,-1,1,15.0,0,0.0,0.0,0.0
@@ -12772,7 +12772,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10480710,dilbeek,1703,Flemish Brabant,apartment,apartment,for sale,360000,4137.93,As new,4,2.0,2.0,87.0,0.0,USA hyper equipped,3,,92,7,1,12.0,0,0.0,0.0,0.0
 10563343,auderghem,1160,Brussels Capital Region,apartment,ground floor,for sale,365000,5140.85,Just renovated,3,2.0,1.0,71.0,0.0,USA semi equipped,2,,85,7,1,14.0,1,124.0,0.0,0.0
 10545875,destelbergen,9070,East Flanders,apartment,duplex,for sale,365250,3095.34,As new,4,2.0,2.0,118.0,0.0,USA hyper equipped,3,,-1,-1,1,9.0,0,0.0,0.0,0.0
-10393574,antwerp,2000,Antwerp,apartment,apartment,for sale,368000,3956.99,As new,4,2.0,1.0,93.0,0.0,USA hyper equipped,3,,3983,1,1,10.0,0,0.0,0.0,0.0
+10393574,antwerp,2000,Antwerp,apartment,apartment,for sale,368000,3956.99,As new,4,2.0,1.0,93.0,0.0,USA hyper equipped,3,,39,7,1,10.0,0,0.0,0.0,0.0
 10550561,jambes,5100,Namur,apartment,apartment,for sale,375000,3947.37,As new,4,,2.0,95.0,0.0,USA hyper equipped,3,,88,7,1,6.0,0,0.0,0.0,0.0
 10563076,zwevegem,8550,West Flanders,apartment,penthouse,for sale,389000,3015.5,As new,4,,2.0,129.0,0.0,Hyper equipped,3,,384,4,1,48.0,0,0.0,0.0,0.0
 10562895,schaerbeek,1030,Brussels Capital Region,apartment,apartment,for sale,399000,3911.76,,-1,2.0,3.0,102.0,0.0,,-1,,-1,-1,1,4.0,0,0.0,0.0,0.0
@@ -12851,7 +12851,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10540006,laeken (bru.),1020,Brussels Capital Region,apartment,apartment,for sale,195000,2321.43,To renovate,1,4.0,2.0,84.0,0.0,Not installed,0,,350,4,1,23.0,0,0.0,0.0,0.0
 10512579,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,195000,2785.71,As new,4,2.0,2.0,70.0,0.0,Installed,1,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10285781,izegem,8870,West Flanders,apartment,ground floor,for sale,199000,3061.54,As new,4,,1.0,65.0,0.0,Hyper equipped,3,,89,7,1,9.0,0,0.0,0.0,0.0
-9982253,oostende,8400,West Flanders,apartment,ground floor,for sale,213000,3042.86,As new,4,,1.0,70.0,0.0,Hyper equipped,3,,11831,1,1,,0,0.0,0.0,0.0
+9982253,oostende,8400,West Flanders,apartment,ground floor,for sale,213000,3042.86,As new,4,,1.0,70.0,0.0,Hyper equipped,3,,118,6,1,,0,0.0,0.0,0.0
 10520719,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,215000,2590.36,Good,3,2.0,2.0,83.0,0.0,Semi equipped,2,,159,6,1,14.0,0,0.0,0.0,0.0
 10263040,wavre,1300,Walloon Brabant,apartment,apartment,for sale,215000,3583.33,Good,3,,2.0,60.0,0.0,USA semi equipped,2,,160,6,1,23.0,0,0.0,0.0,0.0
 10261092,begijnendijk,3130,Flemish Brabant,apartment,apartment,for sale,218000,2180.0,,-1,2.0,2.0,100.0,0.0,Semi equipped,2,,406,3,1,,0,0.0,0.0,0.0
@@ -12877,7 +12877,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10365024,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,279000,3985.71,Good,3,2.0,1.0,70.0,0.0,,-1,,283,5,0,0.0,0,0.0,0.0,0.0
 10465627,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,279000,3402.44,Good,3,2.0,2.0,82.0,0.0,USA hyper equipped,3,,236,5,1,4.0,0,0.0,0.0,0.0
 10526041,grace-hollogne,4460,Liège,apartment,apartment,for sale,279500,1433.33,As new,4,,2.0,195.0,0.0,Installed,1,,195,6,1,8.0,1,80000.0,0.0,0.0
-10505510,de haan,8420,West Flanders,apartment,apartment,for sale,285000,5181.82,As new,4,,1.0,55.0,0.0,Installed,1,,9235,1,1,,0,0.0,0.0,0.0
+10505510,de haan,8420,West Flanders,apartment,apartment,for sale,285000,5181.82,As new,4,,1.0,55.0,0.0,Installed,1,,92,7,1,,0,0.0,0.0,0.0
 8642778,blankenberge,8370,West Flanders,apartment,ground floor,for sale,299000,1868.75,As new,4,,2.0,160.0,0.0,Hyper equipped,3,,235,5,0,0.0,0,0.0,0.0,0.0
 9919154,jette,1090,Brussels Capital Region,apartment,duplex,for sale,300000,1851.85,To renovate,1,,3.0,162.0,0.0,Installed,1,,446,3,0,0.0,0,0.0,0.0,0.0
 10499575,wemmel,1780,Flemish Brabant,apartment,apartment,for sale,315000,2863.64,To be done up,2,2.0,2.0,110.0,0.0,Installed,1,,247,5,1,56.0,0,0.0,0.0,0.0
@@ -13139,7 +13139,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10472560,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,275000,2894.74,,-1,,2.0,95.0,0.0,USA installed,1,,25,7,1,11.0,0,0.0,0.0,0.0
 9867580,neupre,4121,Liège,apartment,apartment,for sale,291500,2699.07,,-1,,3.0,108.0,0.0,Installed,1,,110,6,1,10.0,1,29.0,0.0,0.0
 10435653,florenville,6820,Luxembourg,apartment,duplex,for sale,313900,2906.48,As new,4,3.0,2.0,108.0,0.0,Hyper equipped,3,,85,7,1,30.0,0,0.0,0.0,0.0
-10508534,erpe-mere,9420,East Flanders,apartment,duplex,for sale,319000,1981.37,As new,4,2.0,3.0,161.0,0.0,USA hyper equipped,3,,8279,1,1,26.0,0,0.0,0.0,0.0
+10508534,erpe-mere,9420,East Flanders,apartment,duplex,for sale,319000,1981.37,As new,4,2.0,3.0,161.0,0.0,USA hyper equipped,3,,82,7,1,26.0,0,0.0,0.0,0.0
 10521731,namur,5000,Namur,apartment,apartment,for sale,320000,2857.14,,-1,4.0,2.0,112.0,0.0,Installed,1,,75,7,1,10.0,1,,0.0,0.0
 9867577,neupre,4121,Liège,apartment,apartment,for sale,324000,2050.63,,-1,,4.0,158.0,0.0,Installed,1,,108,6,1,36.0,0,0.0,0.0,0.0
 10545874,destelbergen,9070,East Flanders,apartment,duplex,for sale,333400,2950.44,As new,4,2.0,2.0,113.0,0.0,USA hyper equipped,3,,-1,-1,1,5.0,0,0.0,0.0,0.0
@@ -13244,7 +13244,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10439613,sint-jans-molenbeek,1080,Brussels Capital Region,apartment,apartment,for sale,198000,2675.68,Good,3,2.0,2.0,74.0,0.0,USA hyper equipped,3,,212,5,0,0.0,0,0.0,0.0,0.0
 10466799,antwerpen,2170,Antwerp,apartment,apartment,for sale,199000,1990.0,To be done up,2,2.0,2.0,100.0,0.0,Installed,1,,129,6,1,14.0,0,0.0,0.0,0.0
 10498887,liège,4000,Liège,apartment,penthouse,for sale,199000,2094.74,Good,3,2.0,3.0,95.0,0.0,USA installed,1,,627,1,1,8.0,0,0.0,0.0,0.0
-10345507,ronse,9600,East Flanders,apartment,ground floor,for sale,199000,2842.86,Good,3,,2.0,70.0,0.0,Installed,1,,11468,1,1,,1,,0.0,0.0
+10345507,ronse,9600,East Flanders,apartment,ground floor,for sale,199000,2842.86,Good,3,,2.0,70.0,0.0,Installed,1,,114,6,1,,1,,0.0,0.0
 10463008,ninove,9400,East Flanders,apartment,apartment,for sale,199500,2557.69,As new,4,2.0,2.0,78.0,0.0,Installed,1,,168,6,1,3.0,0,0.0,0.0,0.0
 10500866,tienen,3300,Flemish Brabant,apartment,duplex,for sale,199990,1834.77,Good,3,2.0,2.0,109.0,0.0,Installed,1,,325,4,0,0.0,0,0.0,0.0,0.0
 10171739,manage,7170,Hainaut,apartment,apartment,for sale,200000,1219.51,To be done up,2,2.0,5.0,164.0,0.0,Semi equipped,2,,315,4,1,,1,45.0,0.0,0.0
@@ -13320,7 +13320,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10491306,grimbergen strombeek-bever,1853,Flemish Brabant,apartment,apartment,for sale,269000,2690.0,As new,4,,3.0,100.0,0.0,Hyper equipped,3,,258,5,1,18.0,0,0.0,0.0,0.0
 10522624,schoten,2900,Antwerp,apartment,apartment,for sale,269000,2663.37,Good,3,2.0,2.0,101.0,0.0,USA hyper equipped,3,,139,6,1,7.0,0,0.0,1.0,0.0
 10385756,wuustwezel,2990,Antwerp,apartment,apartment,for sale,269000,3280.49,Good,3,3.0,2.0,82.0,0.0,Installed,1,,305,4,1,25.0,0,0.0,0.0,0.0
-10058426,ardooie,8850,West Flanders,apartment,ground floor,for sale,269000,1963.5,As new,4,,3.0,137.0,0.0,Hyper equipped,3,,12074,1,1,8.0,0,0.0,0.0,0.0
+10058426,ardooie,8850,West Flanders,apartment,ground floor,for sale,269000,1963.5,As new,4,,3.0,137.0,0.0,Hyper equipped,3,,120,6,1,8.0,0,0.0,0.0,0.0
 10512397,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,270000,5400.0,As new,4,3.0,1.0,50.0,0.0,Installed,1,,323,4,0,0.0,0,0.0,0.0,0.0
 10504292,berchem-sainte-agathe,1082,Brussels Capital Region,apartment,apartment,for sale,270000,2700.0,To renovate,1,3.0,3.0,100.0,0.0,Semi equipped,2,,506,2,1,,1,50.0,0.0,0.0
 10509238,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,270000,3103.45,To renovate,1,,2.0,87.0,0.0,Installed,1,,497,3,1,16.0,0,0.0,0.0,0.0
@@ -13449,7 +13449,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10321551,antwerp,2000,Antwerp,apartment,apartment,for sale,720000,4363.64,As new,4,3.0,2.0,165.0,1.0,Hyper equipped,3,,123,6,0,0.0,0,0.0,0.0,0.0
 10487831,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,725000,4215.12,As new,4,2.0,3.0,172.0,0.0,Not installed,0,,189,6,1,11.0,0,0.0,0.0,0.0
 10370309,knokke,8300,West Flanders,apartment,apartment,for sale,745000,8186.81,As new,4,3.0,2.0,91.0,1.0,Installed,1,,167,6,1,10.0,1,,0.0,0.0
-10352153,brasschaat,2930,Antwerp,apartment,penthouse,for sale,750000,3409.09,Good,3,3.0,2.0,220.0,0.0,Hyper equipped,3,,12987,1,1,,0,0.0,0.0,0.0
+10352153,brasschaat,2930,Antwerp,apartment,penthouse,for sale,750000,3409.09,Good,3,3.0,2.0,220.0,0.0,Hyper equipped,3,,129,6,1,,0,0.0,0.0,0.0
 10510576,leuven,3000,Flemish Brabant,apartment,penthouse,for sale,795000,4320.65,As new,4,,3.0,184.0,0.0,Installed,1,,110,6,1,,1,,0.0,0.0
 10492317,oostende,8400,West Flanders,apartment,apartment,for sale,795000,4818.18,As new,4,2.0,3.0,165.0,0.0,Hyper equipped,3,,92,7,1,4.0,0,0.0,0.0,0.0
 10194130,la hulpe,1310,Walloon Brabant,apartment,triplex,for sale,815000,5158.23,As new,4,4.0,3.0,158.0,0.0,USA hyper equipped,3,,-1,-1,1,30.0,0,0.0,0.0,0.0
@@ -13653,7 +13653,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10572622,woluwÉ-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,560000,3612.9,,-1,2.0,2.0,155.0,0.0,Semi equipped,2,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10559625,grez-doiceau,1390,Walloon Brabant,apartment,ground floor,for sale,179000,3580.0,,-1,,1.0,50.0,0.0,Not installed,0,,876,1,0,0.0,0,0.0,0.0,0.0
 10557020,de panne,8660,West Flanders,apartment,apartment,for sale,245000,3550.72,As new,4,,1.0,69.0,1.0,Installed,1,,224,5,0,0.0,1,,0.0,0.0
-10557670,blankenberge,8370,West Flanders,apartment,apartment,for sale,269000,2923.91,Good,3,2.0,2.0,92.0,0.0,Installed,1,,11668,1,0,0.0,0,0.0,0.0,0.0
+10557670,blankenberge,8370,West Flanders,apartment,apartment,for sale,269000,2923.91,Good,3,2.0,2.0,92.0,0.0,Installed,1,,116,6,0,0.0,0,0.0,0.0,0.0
 10557457,malle,2390,Antwerp,apartment,apartment,for sale,339000,2607.69,Good,3,3.0,2.0,130.0,0.0,Not installed,0,,422,3,1,16.0,0,0.0,0.0,0.0
 10559297,oostende,8400,West Flanders,apartment,apartment,for sale,399000,4030.3,Just renovated,3,2.0,3.0,99.0,1.0,Hyper equipped,3,,234,5,0,0.0,0,0.0,0.0,0.0
 10558225,gent,9000,East Flanders,apartment,apartment,for sale,495000,3867.19,As new,4,,3.0,128.0,0.0,Installed,1,,124,6,1,,0,0.0,0.0,0.0
@@ -13727,7 +13727,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10393675,liège,4000,Liège,apartment,apartment,for sale,109000,2369.57,To be done up,2,4.0,1.0,46.0,0.0,,-1,,231,5,0,0.0,0,0.0,0.0,0.0
 10538781,liege,4000,Liège,apartment,apartment,for sale,125000,1506.02,Good,3,2.0,1.0,83.0,0.0,Installed,1,,418,3,1,10.0,0,0.0,0.0,0.0
 10285130,brugge,8000,West Flanders,apartment,kot,for sale,125000,5434.78,As new,4,,1.0,23.0,0.0,Hyper equipped,3,,284,5,0,0.0,0,0.0,0.0,0.0
-10388480,antwerp,2000,Antwerp,apartment,flat studio,for sale,130000,7647.06,Good,3,,1.0,17.0,0.0,Hyper equipped,3,,8496,1,1,,0,0.0,0.0,0.0
+10388480,antwerp,2000,Antwerp,apartment,flat studio,for sale,130000,7647.06,Good,3,,1.0,17.0,0.0,Hyper equipped,3,,84,7,1,,0,0.0,0.0,0.0
 10548715,oostende,8400,West Flanders,apartment,ground floor,for sale,130000,3333.33,Good,3,,2.0,39.0,0.0,Installed,1,,271,5,0,0.0,0,0.0,0.0,0.0
 10472616,koksijde,8670,West Flanders,apartment,flat studio,for sale,133000,3500.0,Good,3,2.0,,38.0,0.0,USA installed,1,,464,3,0,0.0,0,0.0,0.0,0.0
 10360218,jette,1090,Brussels Capital Region,apartment,apartment,for sale,134900,2645.1,Good,3,4.0,1.0,51.0,0.0,Installed,1,,181,6,0,0.0,0,0.0,0.0,0.0
@@ -13854,7 +13854,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10274632,heist-aan-zee,8301,West Flanders,apartment,apartment,for sale,275000,4230.77,As new,4,2.0,1.0,65.0,1.0,USA installed,1,,86,7,1,,0,0.0,0.0,0.0
 10550535,poperinge,8970,West Flanders,apartment,penthouse,for sale,275000,647.06,As new,4,,1.0,425.0,1.0,Installed,1,,153,6,0,0.0,0,0.0,0.0,0.0
 10517323,deurne,2100,Antwerp,apartment,apartment,for sale,279000,2447.37,Good,3,,3.0,114.0,0.0,,-1,,217,5,1,11.0,0,0.0,0.0,0.0
-8318012,tielt,8700,West Flanders,apartment,apartment,for sale,279000,3985.71,Good,3,,2.0,70.0,0.0,Installed,1,,8413,1,0,0.0,0,0.0,0.0,0.0
+8318012,tielt,8700,West Flanders,apartment,apartment,for sale,279000,3985.71,Good,3,,2.0,70.0,0.0,Installed,1,,84,7,0,0.0,0,0.0,0.0,0.0
 10442045,denderleeuw,9470,East Flanders,apartment,penthouse,for sale,279000,2344.54,As new,4,,2.0,119.0,0.0,Installed,1,,121,6,1,42.0,0,0.0,0.0,0.0
 10445577,brugge,8000,West Flanders,apartment,ground floor,for sale,280000,3333.33,As new,4,,1.0,84.0,0.0,Hyper equipped,3,,-1,-1,1,,1,60.0,0.0,0.0
 10541063,woluwe-saint-pierre,1150,Brussels Capital Region,apartment,apartment,for sale,285000,3750.0,To be done up,2,4.0,2.0,76.0,0.0,,-1,,239,5,1,16.0,0,0.0,0.0,0.0
@@ -13884,7 +13884,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10487840,antwerpen,2610,Antwerp,apartment,apartment,for sale,319000,3067.31,As new,4,2.0,3.0,104.0,0.0,,-1,,175,6,0,0.0,0,0.0,0.0,0.0
 10473870,antwerpen berchem,2600,Antwerp,apartment,apartment,for sale,320000,3106.8,Just renovated,3,2.0,3.0,103.0,0.0,USA hyper equipped,3,,238,5,1,18.0,0,0.0,0.0,0.0
 10463778,evere,1140,Brussels Capital Region,apartment,apartment,for sale,322000,3389.47,As new,4,2.0,1.0,95.0,0.0,USA hyper equipped,3,,108,6,1,29.0,0,0.0,0.0,0.0
-10305654,jette,1090,Brussels Capital Region,apartment,ground floor,for sale,322875,3261.36,As new,4,3.0,1.0,99.0,0.0,USA hyper equipped,3,,5832,1,1,10.0,1,25.0,0.0,0.0
+10305654,jette,1090,Brussels Capital Region,apartment,ground floor,for sale,322875,3261.36,As new,4,3.0,1.0,99.0,0.0,USA hyper equipped,3,,58,7,1,10.0,1,25.0,0.0,0.0
 10485999,lier,2500,Antwerp,apartment,apartment,for sale,325000,3823.53,As new,4,,2.0,85.0,0.0,Installed,1,,158,6,1,8.0,1,,0.0,0.0
 10524066,genk,3600,Limburg,apartment,apartment,for sale,325000,1756.76,Good,3,3.0,3.0,185.0,0.0,Hyper equipped,3,,246,5,1,10.0,1,523.0,0.0,0.0
 9104737,gistel,8470,West Flanders,apartment,apartment,for sale,325000,2876.11,As new,4,,3.0,113.0,0.0,Hyper equipped,3,,-1,-1,1,20.0,0,0.0,0.0,0.0
@@ -13922,7 +13922,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10497500,kortessem,3720,Limburg,apartment,duplex,for sale,410000,3203.12,As new,4,4.0,3.0,128.0,0.0,Hyper equipped,3,,74,7,1,,0,0.0,0.0,0.0
 10447490,lievegem,9950,East Flanders,apartment,duplex,for sale,410000,2928.57,As new,4,,3.0,140.0,0.0,Hyper equipped,3,,-1,-1,1,,0,0.0,0.0,0.0
 10312091,antwerpen,2000,Antwerp,apartment,apartment,for sale,414000,4224.49,As new,4,2.0,2.0,98.0,0.0,Installed,1,,54,7,1,8.0,0,0.0,0.0,0.0
-10403505,antwerp,2000,Antwerp,apartment,apartment,for sale,415000,4322.92,As new,4,2.0,2.0,96.0,0.0,USA hyper equipped,3,,8265,1,1,6.0,0,0.0,0.0,0.0
+10403505,antwerp,2000,Antwerp,apartment,apartment,for sale,415000,4322.92,As new,4,2.0,2.0,96.0,0.0,USA hyper equipped,3,,82,7,1,6.0,0,0.0,0.0,0.0
 10531107,oostende,8400,West Flanders,apartment,apartment,for sale,419000,5109.76,To be done up,2,,2.0,82.0,0.0,,-1,,213,5,1,30.0,0,0.0,0.0,0.0
 10538654,etterbeek,1040,Brussels Capital Region,apartment,apartment,for sale,425000,4722.22,As new,4,1.0,2.0,90.0,0.0,Hyper equipped,3,,143,6,1,8.0,0,0.0,0.0,0.0
 10480427,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,425000,2544.91,Good,3,2.0,3.0,167.0,0.0,USA hyper equipped,3,,186,6,1,25.0,1,175.0,0.0,0.0
@@ -14033,7 +14033,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10556765,wetteren,9230,East Flanders,apartment,apartment,for sale,260000,2988.51,,-1,,1.0,87.0,0.0,,-1,,-1,-1,1,31.0,1,,0.0,0.0
 10556760,wetteren,9230,East Flanders,apartment,apartment,for sale,300000,3370.79,,-1,,1.0,89.0,0.0,,-1,,-1,-1,1,30.0,1,60.0,0.0,0.0
 10555063,herselt,2230,Antwerp,apartment,apartment,for sale,344425,2777.62,As new,4,2.0,3.0,124.0,0.0,,-1,,-1,-1,1,27.0,0,0.0,0.0,0.0
-10571837,oostende,8400,West Flanders,apartment,apartment,for sale,375000,4360.47,Good,3,2.0,2.0,86.0,0.0,Installed,1,,8719,1,1,7.0,0,0.0,0.0,0.0
+10571837,oostende,8400,West Flanders,apartment,apartment,for sale,375000,4360.47,Good,3,2.0,2.0,86.0,0.0,Installed,1,,87,7,1,7.0,0,0.0,0.0,0.0
 10556362,wilsele,3000,Flemish Brabant,apartment,apartment,for sale,382500,3713.59,,-1,2.0,3.0,103.0,0.0,,-1,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10556361,wilsele,3000,Flemish Brabant,apartment,apartment,for sale,392500,3668.22,,-1,2.0,3.0,107.0,0.0,,-1,,-1,-1,1,27.0,0,0.0,0.0,0.0
 10568886,brussels city,1000,Brussels Capital Region,apartment,apartment,for sale,540000,4576.27,As new,4,4.0,2.0,118.0,0.0,Hyper equipped,3,,-1,-1,1,52.0,0,0.0,0.0,0.0
@@ -14086,7 +14086,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9882075,aalst,9290,East Flanders,apartment,penthouse,for sale,655000,4851.85,To restore,0,2.0,3.0,135.0,0.0,,-1,,-1,-1,1,109.0,0,0.0,0.0,0.0
 10427350,auderghem,1160,Brussels Capital Region,apartment,apartment,for sale,715000,5458.02,,-1,,2.0,131.0,0.0,USA hyper equipped,3,,-1,-1,1,39.0,0,0.0,0.0,0.0
 10427351,auderghem,1160,Brussels Capital Region,apartment,apartment,for sale,820000,5000.0,,-1,,3.0,164.0,0.0,USA hyper equipped,3,,-1,-1,1,39.0,0,0.0,0.0,0.0
-9863134,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1650000,8870.97,As new,4,3.0,3.0,186.0,0.0,Hyper equipped,3,,5986,1,1,50.0,1,700.0,0.0,0.0
+9863134,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,1650000,8870.97,As new,4,3.0,3.0,186.0,0.0,Hyper equipped,3,,59,7,1,50.0,1,700.0,0.0,0.0
 10566893,deurne-zuid,2100,Antwerp,apartment,apartment,for sale,239000,2845.24,As new,4,1.0,2.0,84.0,0.0,Hyper equipped,3,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10552225,uccle,1180,Brussels Capital Region,apartment,flat studio,for sale,149950,3657.32,Good,3,2.0,,41.0,0.0,,-1,,342,4,1,9.0,1,9.0,0.0,0.0
 10572034,boom,2850,Antwerp,apartment,apartment,for sale,115000,2875.0,As new,4,,1.0,40.0,0.0,,-1,,439,3,1,2.0,1,,0.0,0.0
@@ -14173,7 +14173,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 8993659,boncelles,4100,Liège,apartment,apartment,for sale,252000,3189.87,,-1,4.0,1.0,79.0,0.0,Hyper equipped,3,,50,7,1,17.0,0,0.0,0.0,0.0
 10497300,middelkerke,8430,West Flanders,apartment,apartment,for sale,259000,4465.52,Good,3,2.0,2.0,58.0,0.0,Installed,1,,237,5,1,1.0,0,0.0,0.0,0.0
 10484425,middelkerke,8430,West Flanders,apartment,apartment,for sale,260000,3661.97,As new,4,2.0,2.0,71.0,0.0,Installed,1,,272,5,1,11.0,0,0.0,0.0,0.0
-10023368,leuven,3000,Flemish Brabant,apartment,service flat,for sale,265000,3441.56,As new,4,2.0,1.0,77.0,0.0,Hyper equipped,3,,98160003662109,1,1,,0,0.0,0.0,0.0
+10023368,leuven,3000,Flemish Brabant,apartment,service flat,for sale,265000,3441.56,As new,4,2.0,1.0,77.0,0.0,Hyper equipped,3,,98,7,1,,0,0.0,0.0,0.0
 10540813,deinze,9800,East Flanders,apartment,apartment,for sale,265000,3192.77,Good,3,2.0,2.0,83.0,0.0,Installed,1,,211,5,0,0.0,0,0.0,0.0,0.0
 10522412,bruxelles,1120,Brussels Capital Region,apartment,apartment,for sale,269000,3362.5,Good,3,4.0,2.0,80.0,0.0,Installed,1,,115,6,1,17.0,0,0.0,0.0,0.0
 10472531,herzele,9550,East Flanders,apartment,loft,for sale,269000,2186.99,As new,4,2.0,3.0,123.0,0.0,USA hyper equipped,3,,156,6,1,18.0,0,0.0,0.0,0.0
@@ -14311,7 +14311,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10576096,charleroi,6000,Hainaut,apartment,apartment,for sale,110000,1466.67,Good,3,2.0,2.0,75.0,0.0,,-1,,526,2,1,,0,0.0,0.0,0.0
 10576639,gent,9040,East Flanders,apartment,apartment,for sale,239000,3186.67,Good,3,,2.0,75.0,0.0,Installed,1,,-1,-1,1,2.0,0,0.0,0.0,0.0
 10563937,verviers,4800,Liège,apartment,penthouse,for sale,361000,3223.21,As new,4,2.0,3.0,112.0,0.0,Installed,1,,-1,-1,1,34.0,1,475.0,0.0,0.0
-10485929,oostende,8400,West Flanders,apartment,apartment,for sale,550000,5288.46,,-1,,2.0,104.0,0.0,,-1,,9763,1,1,13.0,0,0.0,0.0,0.0
+10485929,oostende,8400,West Flanders,apartment,apartment,for sale,550000,5288.46,,-1,,2.0,104.0,0.0,,-1,,97,7,1,13.0,0,0.0,0.0,0.0
 10561538,hasselt,3511,Limburg,apartment,apartment,for sale,195000,2191.01,Good,3,2.0,2.0,89.0,0.0,,-1,,132,6,1,,0,0.0,0.0,0.0
 10562597,westende,8434,West Flanders,apartment,apartment,for sale,434000,5292.68,Good,3,2.0,2.0,82.0,1.0,,-1,,206,5,1,,0,0.0,0.0,0.0
 10578358,marcinelle,6001,Hainaut,apartment,ground floor,for sale,120000,1500.0,To be done up,2,2.0,2.0,80.0,0.0,Semi equipped,2,,446,3,0,0.0,0,0.0,0.0,0.0
@@ -14453,7 +14453,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10489321,bruxelles,1000,Brussels Capital Region,apartment,apartment,for sale,300000,5000.0,Good,3,2.0,1.0,60.0,0.0,USA hyper equipped,3,,161,6,0,0.0,0,0.0,0.0,0.0
 10393179,lanaken,3620,Limburg,apartment,apartment,for sale,309743,2647.38,As new,4,,2.0,117.0,0.0,Hyper equipped,3,,40,7,1,,0,0.0,0.0,0.0
 10550157,kessel,2560,Antwerp,apartment,ground floor,for sale,313800,3202.04,,-1,,3.0,98.0,0.0,Installed,1,,-1,-1,1,13.0,1,30.0,0.0,0.0
-10538043,oudenaarde,9700,East Flanders,apartment,apartment,for sale,315000,3461.54,As new,4,2.0,2.0,91.0,0.0,,-1,,6224,1,1,6.0,1,,0.0,0.0
+10538043,oudenaarde,9700,East Flanders,apartment,apartment,for sale,315000,3461.54,As new,4,2.0,2.0,91.0,0.0,,-1,,62,7,1,6.0,1,,0.0,0.0
 10396453,oud-turnhout,2360,Antwerp,apartment,ground floor,for sale,320540,3410.0,,-1,,2.0,94.0,0.0,Installed,1,,-1,-1,1,10.0,0,0.0,0.0,0.0
 9860457,harelbeke,8530,West Flanders,apartment,apartment,for sale,324000,2551.18,,-1,,3.0,127.0,0.0,Installed,1,,-1,-1,1,15.0,0,0.0,0.0,0.0
 10458256,heverlee (leuven),3001,Flemish Brabant,apartment,apartment,for sale,325000,4166.67,Just renovated,3,2.0,2.0,78.0,1.0,,-1,,122,6,1,,0,0.0,0.0,0.0
@@ -14561,10 +14561,10 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10136251,zoutleeuw,3440,Flemish Brabant,apartment,duplex,for sale,356000,2455.17,As new,4,2.0,3.0,145.0,0.0,USA hyper equipped,3,,-1,-1,1,15.0,0,0.0,0.0,0.0
 9968747,gent,9000,East Flanders,apartment,apartment,for sale,359000,3739.58,,-1,,1.0,96.0,0.0,,-1,,-1,-1,1,12.0,1,,0.0,0.0
 10547361,destelbergen,9070,East Flanders,apartment,ground floor,for sale,363800,3219.47,As new,4,2.0,2.0,113.0,0.0,USA hyper equipped,3,,-1,-1,0,0.0,1,70.0,0.0,0.0
-10432941,gent,9000,East Flanders,apartment,apartment,for sale,394500,3400.86,,-1,,2.0,116.0,0.0,,-1,,4469,1,1,10.0,1,,0.0,0.0
+10432941,gent,9000,East Flanders,apartment,apartment,for sale,394500,3400.86,,-1,,2.0,116.0,0.0,,-1,,44,7,1,10.0,1,,0.0,0.0
 10385836,antwerp,2000,Antwerp,apartment,apartment,for sale,395000,6076.92,As new,4,,1.0,65.0,0.0,Hyper equipped,3,,15,7,1,14.0,0,0.0,0.0,0.0
-10326221,gent,9000,East Flanders,apartment,apartment,for sale,439500,3724.58,,-1,,3.0,118.0,0.0,,-1,,3919,1,1,10.0,1,,0.0,0.0
-10209081,gent,9000,East Flanders,apartment,apartment,for sale,439500,3724.58,,-1,,3.0,118.0,0.0,,-1,,3919,1,1,10.0,1,,0.0,0.0
+10326221,gent,9000,East Flanders,apartment,apartment,for sale,439500,3724.58,,-1,,3.0,118.0,0.0,,-1,,39,7,1,10.0,1,,0.0,0.0
+10209081,gent,9000,East Flanders,apartment,apartment,for sale,439500,3724.58,,-1,,3.0,118.0,0.0,,-1,,39,7,1,10.0,1,,0.0,0.0
 10564793,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,495000,4125.0,Just renovated,3,2.0,2.0,120.0,0.0,Installed,1,,176,6,1,8.0,0,0.0,0.0,0.0
 10513118,roux,6044,Hainaut,apartment,apartment,for sale,549900,1845.3,,-1,3.0,8.0,298.0,0.0,,-1,,89,7,0,0.0,1,380.0,0.0,0.0
 10153286,genval,1332,Walloon Brabant,apartment,apartment,for sale,580000,4677.42,,-1,2.0,2.0,124.0,0.0,Installed,1,,53,7,1,44.0,1,104.0,0.0,0.0
@@ -14693,7 +14693,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10342467,izegem,8870,West Flanders,apartment,duplex,for sale,199000,1658.33,Good,3,2.0,2.0,120.0,0.0,Installed,1,,247,5,1,,0,0.0,0.0,0.0
 10402945,ninove,9400,East Flanders,apartment,apartment,for sale,199000,1809.09,Good,3,4.0,2.0,110.0,0.0,Installed,1,,343,4,0,0.0,0,0.0,0.0,0.0
 10402946,outer,9406,East Flanders,apartment,apartment,for sale,199000,1809.09,Good,3,4.0,2.0,110.0,0.0,Installed,1,,343,4,0,0.0,0,0.0,0.0,0.0
-10536980,geraardsbergen,9500,East Flanders,apartment,apartment,for sale,199000,2487.5,As new,4,2.0,2.0,80.0,0.0,Hyper equipped,3,,13495,1,0,0.0,0,0.0,0.0,0.0
+10536980,geraardsbergen,9500,East Flanders,apartment,apartment,for sale,199000,2487.5,As new,4,2.0,2.0,80.0,0.0,Hyper equipped,3,,134,6,0,0.0,0,0.0,0.0,0.0
 10449819,saint-gilles,1060,Brussels Capital Region,apartment,flat studio,for sale,200000,5000.0,As new,4,2.0,,40.0,0.0,Installed,1,,251,5,0,0.0,0,0.0,0.0,0.0
 10519556,braine-l'alleud,1420,Walloon Brabant,apartment,apartment,for sale,200000,2439.02,Good,3,2.0,1.0,82.0,0.0,Installed,1,,154,6,0,0.0,0,0.0,0.0,0.0
 10412294,westende,8434,West Flanders,apartment,apartment,for sale,200000,3076.92,To be done up,2,,1.0,65.0,0.0,,-1,,9999,1,0,0.0,0,0.0,0.0,0.0
@@ -14721,7 +14721,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10549542,zulte,9870,East Flanders,apartment,apartment,for sale,232000,2521.74,Good,3,2.0,2.0,92.0,0.0,Installed,1,,105,6,1,,0,0.0,0.0,0.0
 10238761,sint-pieters-leeuw,1600,Flemish Brabant,apartment,ground floor,for sale,235000,2937.5,Good,3,,2.0,80.0,0.0,Semi equipped,2,,467,3,0,0.0,0,0.0,0.0,0.0
 10546642,aalst,9300,East Flanders,apartment,ground floor,for sale,235000,3133.33,As new,4,2.0,2.0,75.0,0.0,USA installed,1,,135,6,1,25.0,0,0.0,0.0,0.0
-10491554,denderleeuw,9470,East Flanders,apartment,apartment,for sale,235000,3012.82,As new,4,,2.0,78.0,0.0,Installed,1,,1145,1,1,,0,0.0,0.0,0.0
+10491554,denderleeuw,9470,East Flanders,apartment,apartment,for sale,235000,3012.82,As new,4,,2.0,78.0,0.0,Installed,1,,114,6,1,,0,0.0,0.0,0.0
 10519932,wetteren,9230,East Flanders,apartment,apartment,for sale,236000,2776.47,Good,3,3.0,2.0,85.0,0.0,,-1,,247,5,1,,0,0.0,0.0,0.0
 10526307,erpe-mere,9420,East Flanders,apartment,apartment,for sale,239000,2597.83,As new,4,2.0,2.0,92.0,0.0,Hyper equipped,3,,84,7,1,7.0,0,0.0,0.0,0.0
 10155420,schaerbeek,1030,Brussels Capital Region,apartment,apartment,for sale,240000,2962.96,Good,3,2.0,1.0,81.0,0.0,Installed,1,,203,5,1,10.0,0,0.0,0.0,0.0
@@ -14990,7 +14990,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10413485,jodoigne,1370,Walloon Brabant,apartment,triplex,for sale,229000,1624.11,Good,3,2.0,3.0,141.0,0.0,Installed,1,,108,6,0,0.0,0,0.0,0.0,0.0
 10571569,marche-en-famenne,6900,Luxembourg,apartment,duplex,for sale,243000,2479.59,,-1,,3.0,98.0,0.0,,-1,,485,3,1,,0,0.0,0.0,0.0
 10570474,neupré,4122,Liège,apartment,apartment,for sale,335000,2913.04,As new,4,3.0,2.0,115.0,0.0,Installed,1,,185,6,0,0.0,0,0.0,0.0,0.0
-10570135,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,430000,5512.82,As new,4,2.0,1.0,78.0,0.0,USA hyper equipped,3,,864,1,1,10.0,0,0.0,0.0,0.0
+10570135,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,430000,5512.82,As new,4,2.0,1.0,78.0,0.0,USA hyper equipped,3,,86,7,1,10.0,0,0.0,0.0,0.0
 10569760,knokke,8300,West Flanders,apartment,apartment,for sale,675000,10887.1,,-1,2.0,2.0,62.0,0.0,,-1,,164,6,0,0.0,0,0.0,0.0,0.0
 10570214,antwerp,2000,Antwerp,apartment,apartment,for sale,695000,5346.15,As new,4,,2.0,130.0,0.0,Hyper equipped,3,,168,6,1,30.0,0,0.0,0.0,0.0
 10554514,deurne,2100,Antwerp,apartment,apartment,for sale,198000,2828.57,,-1,,2.0,70.0,0.0,Installed,1,,228,5,0,0.0,1,,0.0,0.0
@@ -15000,7 +15000,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10576012,bruxelles,1000,Brussels Capital Region,apartment,kot,for sale,99000,4950.0,As new,4,2.0,1.0,20.0,1.0,Hyper equipped,3,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10562174,leuven,3010,Flemish Brabant,apartment,apartment,for sale,310000,3522.73,Good,3,2.0,2.0,88.0,0.0,,-1,,-1,-1,1,,0,0.0,0.0,0.0
 10562674,halle,1500,Flemish Brabant,apartment,apartment,for sale,340000,2786.89,Good,3,,3.0,122.0,0.0,,-1,,250,5,1,,0,0.0,0.0,0.0
-10561896,leuven,3000,Flemish Brabant,apartment,apartment,for sale,549000,6458.82,Good,3,2.0,2.0,85.0,0.0,Installed,1,,8962,1,1,12.0,0,0.0,0.0,0.0
+10561896,leuven,3000,Flemish Brabant,apartment,apartment,for sale,549000,6458.82,Good,3,2.0,2.0,85.0,0.0,Installed,1,,89,7,1,12.0,0,0.0,0.0,0.0
 10578112,gent,9000,East Flanders,apartment,apartment,for sale,450000,4500.0,Just renovated,3,,3.0,100.0,0.0,Hyper equipped,3,,100,6,1,,0,0.0,0.0,0.0
 10578855,oostduinkerke,8670,West Flanders,apartment,apartment,for sale,875000,6076.39,,-1,,3.0,144.0,0.0,Installed,1,,-1,-1,1,,0,0.0,0.0,0.0
 10566034,ninove,9400,East Flanders,apartment,apartment,for sale,209000,2786.67,Good,3,2.0,2.0,75.0,0.0,Hyper equipped,3,,319,4,1,,0,0.0,0.0,0.0
@@ -15040,7 +15040,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10532883,westende,8434,West Flanders,apartment,apartment,for sale,224000,4480.0,Good,3,2.0,1.0,50.0,1.0,,-1,,206,5,1,,0,0.0,0.0,0.0
 10539460,genval,1330,Walloon Brabant,apartment,apartment,for sale,225000,3000.0,To be done up,2,4.0,2.0,75.0,0.0,,-1,,254,5,1,,0,0.0,0.0,0.0
 10547057,antwerp,2000,Antwerp,apartment,apartment,for sale,225000,3750.0,To be done up,2,,1.0,60.0,0.0,,-1,,497,3,0,0.0,0,0.0,0.0,0.0
-10383249,bredene,8450,West Flanders,apartment,apartment,for sale,232000,2442.11,Good,3,2.0,2.0,95.0,0.0,Installed,1,,13179,1,0,0.0,0,0.0,0.0,0.0
+10383249,bredene,8450,West Flanders,apartment,apartment,for sale,232000,2442.11,Good,3,2.0,2.0,95.0,0.0,Installed,1,,131,6,0,0.0,0,0.0,0.0,0.0
 10424719,braine-l'alleud,1420,Walloon Brabant,apartment,apartment,for sale,235000,2797.62,To be done up,2,2.0,2.0,84.0,0.0,Installed,1,,156,6,1,7.0,0,0.0,1.0,0.0
 10488864,halen,3545,Limburg,apartment,duplex,for sale,235000,1690.65,Good,3,3.0,3.0,139.0,0.0,,-1,,240,5,0,0.0,0,0.0,0.0,0.0
 10379415,forest,1190,Brussels Capital Region,apartment,apartment,for sale,245000,2882.35,,-1,2.0,2.0,85.0,0.0,Installed,1,,-1,-1,1,10.0,0,0.0,0.0,0.0
@@ -15048,7 +15048,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10449166,forest,1190,Brussels Capital Region,apartment,apartment,for sale,249000,3661.76,To be done up,2,2.0,2.0,68.0,0.0,USA semi equipped,2,,254,5,0,0.0,0,0.0,0.0,0.0
 10369686,rhode-saint-genese,1640,Flemish Brabant,apartment,apartment,for sale,249000,3233.77,To be done up,2,2.0,2.0,77.0,0.0,,-1,,267,5,0,0.0,0,0.0,0.0,0.0
 9845868,terhagen,2840,Antwerp,apartment,apartment,for sale,249000,2964.29,As new,4,,2.0,84.0,0.0,Installed,1,,-1,-1,1,13.0,1,,0.0,0.0
-10548315,waregem,8790,West Flanders,apartment,apartment,for sale,249000,3608.7,Good,3,2.0,1.0,69.0,0.0,Installed,1,,5788,1,0,0.0,0,0.0,0.0,0.0
+10548315,waregem,8790,West Flanders,apartment,apartment,for sale,249000,3608.7,Good,3,2.0,1.0,69.0,0.0,Installed,1,,57,7,0,0.0,0,0.0,0.0,0.0
 10439168,blankenberge,8370,West Flanders,apartment,apartment,for sale,250000,3164.56,Good,3,2.0,2.0,79.0,0.0,Installed,1,,99,7,0,0.0,0,0.0,0.0,0.0
 10022266,brye,6222,Hainaut,apartment,apartment,for sale,254000,2540.0,,-1,3.0,2.0,100.0,0.0,Not installed,0,,-1,-1,1,,1,,0.0,0.0
 10323921,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,255000,2656.25,Good,3,2.0,2.0,96.0,0.0,,-1,,251,5,1,3.0,0,0.0,0.0,0.0
@@ -15060,19 +15060,19 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10546291,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,270000,2030.08,To be done up,2,,3.0,133.0,0.0,,-1,,329,4,0,0.0,0,0.0,0.0,0.0
 10363705,ixelles,1050,Brussels Capital Region,apartment,apartment,for sale,275000,3666.67,Good,3,3.0,2.0,75.0,0.0,,-1,,183,6,1,17.0,0,0.0,0.0,0.0
 10547972,uccle,1180,Brussels Capital Region,apartment,apartment,for sale,275000,3819.44,To be done up,2,2.0,1.0,72.0,0.0,Semi equipped,2,,388,4,1,5.0,0,0.0,0.0,0.0
-9672274,oudenaarde,9700,East Flanders,apartment,apartment,for sale,275000,4230.77,As new,4,2.0,1.0,65.0,0.0,,-1,,8324,1,1,5.0,0,0.0,0.0,0.0
-9671325,oudenaarde,9700,East Flanders,apartment,service flat,for sale,275000,4230.77,As new,4,2.0,1.0,65.0,0.0,,-1,,8324,1,1,5.0,0,0.0,0.0,0.0
+9672274,oudenaarde,9700,East Flanders,apartment,apartment,for sale,275000,4230.77,As new,4,2.0,1.0,65.0,0.0,,-1,,83,7,1,5.0,0,0.0,0.0,0.0
+9671325,oudenaarde,9700,East Flanders,apartment,service flat,for sale,275000,4230.77,As new,4,2.0,1.0,65.0,0.0,,-1,,83,7,1,5.0,0,0.0,0.0,0.0
 10423875,arlon,6700,Luxembourg,apartment,apartment,for sale,280000,3333.33,As new,4,2.0,2.0,84.0,0.0,USA semi equipped,2,,-1,-1,1,9.0,0,0.0,0.0,0.0
 10530643,de panne,8660,West Flanders,apartment,apartment,for sale,280000,3414.63,Good,3,2.0,2.0,82.0,0.0,Installed,1,,340,4,1,5.0,0,0.0,0.0,0.0
-10508211,de haan,8420,West Flanders,apartment,service flat,for sale,285000,5181.82,Good,3,,1.0,55.0,0.0,Installed,1,,9235,1,0,0.0,0,0.0,0.0,0.0
+10508211,de haan,8420,West Flanders,apartment,service flat,for sale,285000,5181.82,Good,3,,1.0,55.0,0.0,Installed,1,,92,7,0,0.0,0,0.0,0.0,0.0
 10469206,arlon,6700,Luxembourg,apartment,apartment,for sale,294900,3553.01,,-1,4.0,2.0,83.0,0.0,Installed,1,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10198434,wavre,1300,Walloon Brabant,apartment,apartment,for sale,295000,2379.03,To be done up,2,,2.0,124.0,0.0,USA semi equipped,2,,293,5,1,65.0,0,0.0,0.0,0.0
 10398112,la hulpe,1310,Walloon Brabant,apartment,apartment,for sale,299000,3359.55,As new,4,3.0,2.0,89.0,0.0,Hyper equipped,3,,146,6,0,0.0,0,0.0,0.0,0.0
 10510117,oostende,8400,West Flanders,apartment,apartment,for sale,299000,3285.71,Good,3,2.0,2.0,91.0,0.0,Installed,1,,352,4,1,4.0,0,0.0,0.0,0.0
 10507090,westende,8434,West Flanders,apartment,apartment,for sale,299000,3691.36,Good,3,2.0,2.0,81.0,1.0,,-1,,334,4,1,,0,0.0,0.0,0.0
-10442055,sint-niklaas,9100,East Flanders,apartment,apartment,for sale,299000,3559.52,As new,4,2.0,2.0,84.0,0.0,USA installed,1,,8371,1,1,9.0,0,0.0,0.0,0.0
+10442055,sint-niklaas,9100,East Flanders,apartment,apartment,for sale,299000,3559.52,As new,4,2.0,2.0,84.0,0.0,USA installed,1,,83,7,1,9.0,0,0.0,0.0,0.0
 10359139,strombeek-bever,1853,Flemish Brabant,apartment,apartment,for sale,304500,3274.19,,-1,4.0,2.0,93.0,0.0,Installed,1,,-1,-1,1,8.0,0,0.0,0.0,0.0
-7961536,tielt,8700,West Flanders,apartment,apartment,for sale,305000,4357.14,Good,3,,2.0,70.0,0.0,Installed,1,,7094,1,0,0.0,0,0.0,0.0,0.0
+7961536,tielt,8700,West Flanders,apartment,apartment,for sale,305000,4357.14,Good,3,,2.0,70.0,0.0,Installed,1,,70,7,0,0.0,0,0.0,0.0,0.0
 10510088,bredene,8450,West Flanders,apartment,duplex,for sale,309000,2414.06,Good,3,2.0,3.0,128.0,0.0,Installed,1,,317,4,1,8.0,0,0.0,0.0,0.0
 10086022,boutersem,3370,Flemish Brabant,apartment,duplex,for sale,314500,2347.01,As new,4,,3.0,134.0,0.0,USA hyper equipped,3,,-1,-1,1,17.0,0,0.0,0.0,0.0
 10022719,oostende,8400,West Flanders,apartment,apartment,for sale,315000,2715.52,Good,3,2.0,3.0,116.0,0.0,Installed,1,,200,5,1,10.0,0,0.0,0.0,0.0
@@ -15107,7 +15107,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9884767,knokke,8300,West Flanders,apartment,apartment,for sale,525000,7291.67,As new,4,,2.0,72.0,0.0,,-1,,175,6,0,0.0,1,,0.0,0.0
 10492632,brussels city,1000,Brussels Capital Region,apartment,apartment,for sale,540000,4576.27,As new,4,4.0,2.0,118.0,0.0,Hyper equipped,3,,-1,-1,1,52.0,0,0.0,0.0,0.0
 10531102,oostende,8400,West Flanders,apartment,apartment,for sale,545000,5736.84,As new,4,,2.0,95.0,0.0,,-1,,195,6,1,10.0,0,0.0,0.0,0.0
-10542710,zedelgem,8210,West Flanders,apartment,apartment,for sale,549000,2495.45,As new,4,3.0,3.0,220.0,0.0,Installed,1,,11365,1,0,0.0,1,30.0,0.0,0.0
+10542710,zedelgem,8210,West Flanders,apartment,apartment,for sale,549000,2495.45,As new,4,3.0,3.0,220.0,0.0,Installed,1,,113,6,0,0.0,1,30.0,0.0,0.0
 10538760,zottegem,9620,East Flanders,apartment,apartment,for sale,559000,2192.16,As new,4,,6.0,255.0,0.0,,-1,,167,6,0,0.0,0,0.0,0.0,0.0
 10129754,gent,9000,East Flanders,apartment,apartment,for sale,570500,5433.33,,-1,2.0,2.0,105.0,0.0,,-1,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10522688,aalst,9300,East Flanders,apartment,duplex,for sale,599000,2330.74,Good,3,2.0,3.0,257.0,0.0,Installed,1,,-1,-1,1,15.0,0,0.0,0.0,0.0
@@ -15508,13 +15508,13 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10506096,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,1090000,11122.45,As new,4,2.0,3.0,98.0,1.0,Hyper equipped,3,,83,7,1,,0,0.0,0.0,0.0
 10380805,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,1090000,11122.45,As new,4,2.0,3.0,98.0,1.0,Hyper equipped,3,,83,7,1,,0,0.0,0.0,0.0
 10294432,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,1090000,11122.45,As new,4,2.0,3.0,98.0,1.0,Hyper equipped,3,,83,7,1,,0,0.0,0.0,0.0
-10541196,koksijde,8670,West Flanders,apartment,apartment,for sale,1090000,6228.57,As new,4,2.0,3.0,175.0,1.0,USA hyper equipped,3,,12643,1,1,53.0,0,0.0,0.0,0.0
+10541196,koksijde,8670,West Flanders,apartment,apartment,for sale,1090000,6228.57,As new,4,2.0,3.0,175.0,1.0,USA hyper equipped,3,,126,6,1,53.0,0,0.0,0.0,0.0
 10534491,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1150000,13068.18,Just renovated,3,2.0,3.0,88.0,1.0,Installed,1,,191,6,1,5.0,0,0.0,0.0,0.0
 10547600,antwerp,2000,Antwerp,apartment,penthouse,for sale,1160000,5248.87,As new,4,2.0,4.0,221.0,0.0,,-1,,182,6,1,40.0,0,0.0,0.0,0.0
 10235989,antwerp,2000,Antwerp,apartment,apartment,for sale,1200000,10909.09,As new,4,,2.0,110.0,0.0,USA hyper equipped,3,,-1,-1,1,10.0,0,0.0,0.0,0.0
 10506116,oostende,8400,West Flanders,apartment,apartment,for sale,1249000,5016.06,,-1,,4.0,249.0,1.0,,-1,,228,5,0,0.0,0,0.0,0.0,0.0
 10215533,antwerp,2000,Antwerp,apartment,penthouse,for sale,1280000,6400.0,,-1,,3.0,200.0,0.0,USA hyper equipped,3,,295,5,1,,0,0.0,0.0,0.0
-10250712,antwerp,2000,Antwerp,apartment,apartment,for sale,1350000,9712.23,As new,4,,2.0,139.0,0.0,,-1,,9452,1,1,43.0,0,0.0,0.0,0.0
+10250712,antwerp,2000,Antwerp,apartment,apartment,for sale,1350000,9712.23,As new,4,,2.0,139.0,0.0,,-1,,94,7,1,43.0,0,0.0,0.0,0.0
 10485862,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1350000,18000.0,Just renovated,3,2.0,2.0,75.0,0.0,Hyper equipped,3,,224,5,1,,1,,0.0,0.0
 10251408,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1375000,16369.05,Just renovated,3,,3.0,84.0,0.0,,-1,,77,7,1,,1,,0.0,0.0
 10289874,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1875000,15625.0,As new,4,3.0,3.0,120.0,1.0,USA hyper equipped,3,,222,5,1,,0,0.0,0.0,0.0
@@ -15704,7 +15704,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10505187,saint-gilles,1060,Brussels Capital Region,apartment,apartment,for sale,295000,3277.78,To be done up,2,,3.0,90.0,0.0,USA installed,1,,198,6,1,6.0,0,0.0,0.0,0.0
 10487250,forest,1190,Brussels Capital Region,apartment,apartment,for sale,295000,3277.78,To be done up,2,,3.0,90.0,0.0,USA installed,1,,198,6,1,6.0,0,0.0,0.0,0.0
 10531741,balen,2490,Antwerp,apartment,apartment,for sale,295000,2458.33,Good,3,3.0,3.0,120.0,0.0,USA hyper equipped,3,,132,6,1,15.0,1,45.0,0.0,0.0
-7858699,tielt,8700,West Flanders,apartment,apartment,for sale,295000,3687.5,Good,3,,2.0,80.0,0.0,Installed,1,,8395,1,0,0.0,0,0.0,0.0,0.0
+7858699,tielt,8700,West Flanders,apartment,apartment,for sale,295000,3687.5,Good,3,,2.0,80.0,0.0,Installed,1,,83,7,0,0.0,0,0.0,0.0,0.0
 10491324,hamme,9220,East Flanders,apartment,apartment,for sale,295000,2864.08,Good,3,2.0,2.0,103.0,0.0,USA hyper equipped,3,,118,6,1,38.0,0,0.0,0.0,0.0
 10433413,deurne,2100,Antwerp,apartment,penthouse,for sale,298000,2838.1,As new,4,2.0,2.0,105.0,0.0,Hyper equipped,3,,102,6,1,8.0,0,0.0,0.0,0.0
 10505356,arlon,6700,Luxembourg,apartment,duplex,for sale,298000,2223.88,,-1,2.0,3.0,134.0,0.0,Installed,1,,127,6,0,0.0,0,0.0,0.0,0.0
@@ -15755,7 +15755,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10518064,brussels,1000,Brussels Capital Region,apartment,duplex,for sale,770000,6363.64,,-1,,2.0,121.0,0.0,,-1,,-1,-1,1,23.0,0,0.0,0.0,0.0
 10550866,antwerp,2000,Antwerp,apartment,apartment,for sale,795000,3180.0,As new,4,2.0,2.0,250.0,0.0,Installed,1,,142,6,1,16.0,0,0.0,0.0,0.0
 10422632,heist-aan-zee,8301,West Flanders,apartment,apartment,for sale,795000,6411.29,,-1,,2.0,124.0,0.0,USA hyper equipped,3,,136,6,1,5.0,0,0.0,0.0,0.0
-10420836,knokke,8300,West Flanders,apartment,apartment,for sale,835000,8789.47,As new,4,2.0,2.0,95.0,0.0,Installed,1,,11983,1,1,9.0,0,0.0,0.0,0.0
+10420836,knokke,8300,West Flanders,apartment,apartment,for sale,835000,8789.47,As new,4,2.0,2.0,95.0,0.0,Installed,1,,119,6,1,9.0,0,0.0,0.0,0.0
 10508050,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,850000,9883.72,As new,4,3.0,2.0,86.0,0.0,Hyper equipped,3,,114,6,0,0.0,0,0.0,0.0,0.0
 10103631,cadzand,8300,West Flanders,apartment,apartment,for sale,890000,7355.37,As new,4,3.0,2.0,121.0,0.0,,-1,,-1,-1,1,,0,0.0,0.0,0.0
 9983946,westende,8434,West Flanders,apartment,apartment,for sale,890000,11410.26,As new,4,2.0,1.0,78.0,1.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
@@ -15788,7 +15788,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10559791,gistel,8470,West Flanders,apartment,duplex,for sale,220000,2750.0,Good,3,2.0,2.0,80.0,0.0,Installed,1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10559790,gistel,8470,West Flanders,apartment,apartment,for sale,220000,2471.91,Good,3,2.0,2.0,89.0,0.0,Installed,1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10559789,gistel,8470,West Flanders,apartment,apartment,for sale,220000,2471.91,Good,3,2.0,2.0,89.0,0.0,Installed,1,,-1,-1,0,0.0,0,0.0,0.0,0.0
-10557669,blankenberge,8370,West Flanders,apartment,apartment,for sale,269000,2744.9,Good,3,2.0,2.0,98.0,0.0,Installed,1,,13171,1,0,0.0,0,0.0,0.0,0.0
+10557669,blankenberge,8370,West Flanders,apartment,apartment,for sale,269000,2744.9,Good,3,2.0,2.0,98.0,0.0,Installed,1,,131,6,0,0.0,0,0.0,0.0,0.0
 10557030,aalst,9300,East Flanders,apartment,duplex,for sale,269000,2988.89,As new,4,,2.0,90.0,0.0,Installed,1,,79,7,1,4.0,0,0.0,0.0,0.0
 10560283,ertvelde,9940,East Flanders,apartment,apartment,for sale,270000,3857.14,,-1,,2.0,70.0,0.0,,-1,,186,6,1,,0,0.0,0.0,0.0
 10557873,nieuwpoort,8620,West Flanders,apartment,apartment,for sale,399000,4483.15,As new,4,,2.0,89.0,0.0,Installed,1,,316,4,1,,0,0.0,0.0,0.0
@@ -15955,14 +15955,14 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10069056,knokke-heist,8300,West Flanders,apartment,service flat,for sale,265000,4907.41,Good,3,,1.0,54.0,0.0,,-1,,84,7,1,5.0,0,0.0,0.0,0.0
 10303829,nieuwpoort,8620,West Flanders,apartment,apartment,for sale,268000,5153.85,Just renovated,3,,1.0,52.0,0.0,Hyper equipped,3,,250,5,0,0.0,1,,0.0,0.0
 10511215,aalst,9300,East Flanders,apartment,apartment,for sale,269000,1977.94,,-1,2.0,3.0,136.0,0.0,Hyper equipped,3,,123,6,1,,0,0.0,0.0,0.0
-8814750,oudenaarde,9700,East Flanders,apartment,service flat,for sale,269000,4075.76,As new,4,4.0,1.0,66.0,0.0,,-1,,10247,1,1,9.0,0,0.0,0.0,0.0
-8067494,oudenaarde,9700,East Flanders,apartment,apartment,for sale,269000,4075.76,As new,4,4.0,1.0,66.0,0.0,,-1,,10247,1,1,9.0,0,0.0,0.0,0.0
+8814750,oudenaarde,9700,East Flanders,apartment,service flat,for sale,269000,4075.76,As new,4,4.0,1.0,66.0,0.0,,-1,,102,6,1,9.0,0,0.0,0.0,0.0
+8067494,oudenaarde,9700,East Flanders,apartment,apartment,for sale,269000,4075.76,As new,4,4.0,1.0,66.0,0.0,,-1,,102,6,1,9.0,0,0.0,0.0,0.0
 10459817,tournai,7500,Hainaut,apartment,apartment,for sale,275000,2182.54,Good,3,2.0,3.0,126.0,0.0,Installed,1,,-1,-1,1,7.0,0,0.0,0.0,0.0
 9980943,mouscron,7700,Hainaut,apartment,apartment,for sale,275000,1676.83,,-1,,2.0,164.0,0.0,Installed,1,,143,6,1,8.0,1,,0.0,0.0
 10519437,ninove,9400,East Flanders,apartment,apartment,for sale,275000,2864.58,As new,4,2.0,2.0,96.0,0.0,Installed,1,,61,7,1,35.0,0,0.0,0.0,0.0
 10424530,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,279000,3000.0,,-1,,2.0,93.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10522662,tubize,1480,Walloon Brabant,apartment,apartment,for sale,279000,2762.38,,-1,,2.0,101.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
-10514184,hemiksem,2620,Antwerp,apartment,apartment,for sale,279000,3576.92,,-1,,2.0,78.0,0.0,Installed,1,,11206,1,1,10.0,0,0.0,0.0,0.0
+10514184,hemiksem,2620,Antwerp,apartment,apartment,for sale,279000,3576.92,,-1,,2.0,78.0,0.0,Installed,1,,112,6,1,10.0,0,0.0,0.0,0.0
 10526026,antwerp,2660,Antwerp,apartment,apartment,for sale,279000,2426.09,,-1,,3.0,115.0,0.0,Hyper equipped,3,,104,6,1,,0,0.0,0.0,0.0
 10540583,sint-niklaas,9100,East Flanders,apartment,apartment,for sale,281900,3167.42,,-1,3.0,1.0,89.0,0.0,Installed,1,,-1,-1,1,12.0,1,68.0,0.0,0.0
 10127656,duffel,2570,Antwerp,apartment,apartment,for sale,285000,2794.12,,-1,,2.0,102.0,0.0,,-1,,279,5,1,5.0,0,0.0,0.0,0.0
@@ -15978,7 +15978,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10489424,lebbeke,9280,East Flanders,apartment,apartment,for sale,299000,2990.0,As new,4,2.0,3.0,100.0,0.0,,-1,,479,3,1,,0,0.0,0.0,0.0
 10519435,ninove,9400,East Flanders,apartment,duplex,for sale,305000,2346.15,As new,4,2.0,2.0,130.0,0.0,Installed,1,,77,7,1,8.0,0,0.0,0.0,0.0
 10456678,knokke-heist,8300,West Flanders,apartment,flat studio,for sale,310000,8857.14,,-1,,1.0,35.0,0.0,,-1,,261,5,0,0.0,0,0.0,0.0,0.0
-10412299,varsenare,8490,West Flanders,apartment,apartment,for sale,310000,3163.27,As new,4,,2.0,98.0,0.0,Installed,1,,12783,1,1,50.0,0,0.0,0.0,0.0
+10412299,varsenare,8490,West Flanders,apartment,apartment,for sale,310000,3163.27,As new,4,,2.0,98.0,0.0,Installed,1,,127,6,1,50.0,0,0.0,0.0,0.0
 10437312,koksijde,8670,West Flanders,apartment,service flat,for sale,313000,3726.19,As new,4,1.0,2.0,84.0,0.0,,-1,,45,7,1,28.0,1,150.0,0.0,0.0
 10370639,gent,9050,East Flanders,apartment,apartment,for sale,315000,2863.64,Good,3,3.0,2.0,110.0,0.0,Installed,1,,-1,-1,1,2.0,0,0.0,0.0,0.0
 10547271,oudenaarde,9700,East Flanders,apartment,apartment,for sale,315000,3705.88,,-1,,1.0,85.0,0.0,Installed,1,,127,6,1,12.0,0,0.0,0.0,0.0
@@ -16099,7 +16099,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10174671,antwerp,2000,Antwerp,apartment,apartment,for sale,1250000,6218.91,As new,4,,3.0,201.0,0.0,USA hyper equipped,3,,-1,-1,1,38.0,0,0.0,0.0,0.0
 10567046,gembloux,5030,Namur,apartment,triplex,for sale,275000,1992.75,,-1,,2.0,138.0,0.0,USA hyper equipped,3,,112,6,1,40.0,1,,0.0,0.0
 10411956,middelkerke,8430,West Flanders,apartment,apartment,for sale,200000,3508.77,To be done up,2,3.0,1.0,57.0,0.0,Installed,1,,407,3,1,26.0,0,0.0,0.0,0.0
-10552276,uccle,1180,Brussels Capital Region,apartment,ground floor,for sale,499000,5040.4,As new,4,3.0,2.0,99.0,0.0,USA hyper equipped,3,,8604,1,1,30.0,1,100.0,0.0,0.0
+10552276,uccle,1180,Brussels Capital Region,apartment,ground floor,for sale,499000,5040.4,As new,4,3.0,2.0,99.0,0.0,USA hyper equipped,3,,86,7,1,30.0,1,100.0,0.0,0.0
 10572887,scherpenheuvel-zichem averbode,3271,Flemish Brabant,apartment,apartment,for sale,350000,3240.74,As new,4,,2.0,108.0,0.0,Hyper equipped,3,,-1,-1,1,21.0,0,0.0,0.0,0.0
 10550346,deurne,2100,Antwerp,apartment,apartment,for sale,189000,3150.0,,-1,,1.0,60.0,0.0,,-1,,188,6,1,6.0,0,0.0,0.0,0.0
 10559322,verviers,4800,Liège,apartment,apartment,for sale,211000,2293.48,As new,4,2.0,2.0,92.0,0.0,Installed,1,,-1,-1,1,18.0,1,,0.0,0.0
@@ -16546,7 +16546,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10229255,schaerbeek,1030,Brussels Capital Region,apartment,apartment,for sale,310000,2897.2,,-1,,2.0,107.0,0.0,Hyper equipped,3,,295,5,0,0.0,0,0.0,0.0,0.0
 9819553,kortrijk,8500,West Flanders,apartment,apartment,for sale,310000,2066.67,To be done up,2,3.0,4.0,150.0,0.0,,-1,,-1,-1,1,4.0,0,0.0,0.0,0.0
 10436941,blankenberge,8370,West Flanders,apartment,apartment,for sale,315000,4090.91,,-1,2.0,2.0,77.0,0.0,Installed,1,,-1,-1,1,,0,0.0,0.0,0.0
-10498731,antwerp,2000,Antwerp,apartment,apartment,for sale,320000,4923.08,,-1,,1.0,65.0,1.0,Hyper equipped,3,,9054,1,1,,0,0.0,0.0,0.0
+10498731,antwerp,2000,Antwerp,apartment,apartment,for sale,320000,4923.08,,-1,,1.0,65.0,1.0,Hyper equipped,3,,90,7,1,,0,0.0,0.0,0.0
 10350317,louvain-la-neuve,1348,Walloon Brabant,apartment,apartment,for sale,324000,4207.79,,-1,3.0,2.0,77.0,0.0,Installed,1,,279,5,1,10.0,0,0.0,0.0,0.0
 10476448,gistel,8470,West Flanders,apartment,apartment,for sale,325000,2389.71,Good,3,2.0,3.0,136.0,0.0,Installed,1,,109,6,1,9.0,0,0.0,0.0,0.0
 10511192,gent,9000,East Flanders,apartment,apartment,for sale,325000,4062.5,As new,4,3.0,2.0,80.0,0.0,,-1,,300,4,1,,0,0.0,0.0,0.0
@@ -16563,8 +16563,8 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10546290,ixelles,1050,Brussels Capital Region,apartment,ground floor,for sale,410000,3333.33,To be done up,2,,3.0,123.0,0.0,,-1,,431,3,0,0.0,0,0.0,0.0,0.0
 10435625,antwerp,2000,Antwerp,apartment,penthouse,for sale,429000,5047.06,As new,4,,1.0,85.0,0.0,,-1,,106,6,1,21.0,0,0.0,0.0,0.0
 10093789,aalter,9880,East Flanders,apartment,apartment,for sale,455000,2826.09,,-1,,2.0,161.0,0.0,Installed,1,,-1,-1,1,,1,,0.0,0.0
-10392780,halle,1500,Flemish Brabant,apartment,apartment,for sale,469000,3752.0,,-1,2.0,3.0,125.0,0.0,Installed,1,,9522,1,1,15.0,0,0.0,0.0,0.0
-10392780,halle,1500,Flemish Brabant,apartment,apartment,for sale,469000,3752.0,,-1,2.0,3.0,125.0,0.0,Installed,1,,9522,1,1,15.0,0,0.0,0.0,0.0
+10392780,halle,1500,Flemish Brabant,apartment,apartment,for sale,469000,3752.0,,-1,2.0,3.0,125.0,0.0,Installed,1,,95,7,1,15.0,0,0.0,0.0,0.0
+10392780,halle,1500,Flemish Brabant,apartment,apartment,for sale,469000,3752.0,,-1,2.0,3.0,125.0,0.0,Installed,1,,95,7,1,15.0,0,0.0,0.0,0.0
 10456986,gent,9000,East Flanders,apartment,apartment,for sale,474500,3389.29,Good,3,,3.0,140.0,0.0,,-1,,-1,-1,1,14.0,0,0.0,0.0,0.0
 10530838,deerlijk,8540,West Flanders,apartment,apartment,for sale,475000,3710.94,As new,4,,3.0,128.0,0.0,,-1,,-1,-1,1,,0,0.0,0.0,0.0
 10375583,knokke,8300,West Flanders,apartment,apartment,for sale,485000,6298.7,,-1,,2.0,77.0,0.0,,-1,,95,7,0,0.0,1,,0.0,0.0
@@ -16816,7 +16816,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10510767,antwerp,2018,Antwerp,apartment,apartment,for sale,298000,2921.57,,-1,,2.0,102.0,0.0,Hyper equipped,3,,574,2,0,0.0,1,,0.0,0.0
 10528967,laeken,1020,Brussels Capital Region,apartment,apartment,for sale,299000,1993.33,To be done up,2,2.0,4.0,150.0,0.0,Semi equipped,2,,336,4,0,0.0,1,40.0,0.0,0.0
 10394032,jauche,1350,Walloon Brabant,apartment,apartment,for sale,299000,1495.0,,-1,2.0,2.0,200.0,0.0,Installed,1,,390,4,1,,0,0.0,0.0,0.0
-10444826,boom,2850,Antwerp,apartment,apartment,for sale,299000,3476.74,,-1,,2.0,86.0,0.0,Hyper equipped,3,,4889,1,1,,0,0.0,0.0,0.0
+10444826,boom,2850,Antwerp,apartment,apartment,for sale,299000,3476.74,,-1,,2.0,86.0,0.0,Hyper equipped,3,,48,7,1,,0,0.0,0.0,0.0
 10407166,tienen,3300,Flemish Brabant,apartment,apartment,for sale,299000,2533.9,,-1,2.0,1.0,118.0,0.0,Hyper equipped,3,,119,6,1,53.0,0,0.0,0.0,0.0
 9941376,mons,7000,Hainaut,apartment,loft,for sale,299000,3397.73,As new,4,2.0,1.0,88.0,0.0,Hyper equipped,3,,94,7,1,22.0,0,0.0,0.0,0.0
 10333139,oostende,8400,West Flanders,apartment,apartment,for sale,299000,2718.18,,-1,,2.0,110.0,0.0,,-1,,115,6,1,5.0,0,0.0,0.0,0.0
@@ -16824,8 +16824,8 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9262319,halle,1500,Flemish Brabant,apartment,apartment,for sale,313500,2774.34,,-1,,2.0,113.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10511062,antwerp,2000,Antwerp,apartment,duplex,for sale,315000,4315.07,As new,4,2.0,1.0,73.0,0.0,Hyper equipped,3,,268,5,1,5.0,0,0.0,0.0,0.0
 10475542,wilrijk,2610,Antwerp,apartment,apartment,for sale,315000,2889.91,Good,3,2.0,3.0,109.0,0.0,Installed,1,,152,6,1,7.0,0,0.0,0.0,0.0
-10400743,izegem,8870,West Flanders,apartment,apartment,for sale,317000,2962.62,As new,4,,2.0,107.0,0.0,Hyper equipped,3,,8928,1,1,,1,,0.0,0.0
-10486513,niel,2845,Antwerp,apartment,apartment,for sale,319000,2614.75,,-1,,3.0,122.0,0.0,Hyper equipped,3,,7084,1,1,,0,0.0,0.0,0.0
+10400743,izegem,8870,West Flanders,apartment,apartment,for sale,317000,2962.62,As new,4,,2.0,107.0,0.0,Hyper equipped,3,,89,7,1,,1,,0.0,0.0
+10486513,niel,2845,Antwerp,apartment,apartment,for sale,319000,2614.75,,-1,,3.0,122.0,0.0,Hyper equipped,3,,70,7,1,,0,0.0,0.0,0.0
 9841474,oostduinkerke,8670,West Flanders,apartment,service flat,for sale,320000,4050.63,Good,3,,2.0,79.0,0.0,,-1,,100,6,0,0.0,0,0.0,0.0,1.0
 9262758,halle,1500,Flemish Brabant,apartment,apartment,for sale,324000,2745.76,,-1,,2.0,118.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10458055,braine-le-chÃteau,1440,Walloon Brabant,apartment,apartment,for sale,325000,3250.0,Good,3,,2.0,100.0,0.0,Hyper equipped,3,,332,4,1,5.0,0,0.0,0.0,0.0
@@ -16847,7 +16847,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10508281,nieuwpoort,8620,West Flanders,apartment,apartment,for sale,375000,9375.0,As new,4,,1.0,40.0,0.0,Installed,1,,203,5,1,,0,0.0,0.0,0.0
 10309374,woluwe-st-lambert,1200,Brussels Capital Region,apartment,apartment,for sale,380000,3917.53,As new,4,2.0,2.0,97.0,0.0,Hyper equipped,3,,114,6,0,0.0,0,0.0,0.0,0.0
 10541222,mechelen,2800,Antwerp,apartment,apartment,for sale,380000,3304.35,As new,4,2.0,2.0,115.0,0.0,Hyper equipped,3,,160,6,1,,0,0.0,0.0,0.0
-10401257,hemiksem,2620,Antwerp,apartment,ground floor,for sale,385000,4638.55,,-1,,2.0,83.0,0.0,,-1,,7609,1,1,16.0,1,163.0,0.0,1.0
+10401257,hemiksem,2620,Antwerp,apartment,ground floor,for sale,385000,4638.55,,-1,,2.0,83.0,0.0,,-1,,76,7,1,16.0,1,163.0,0.0,1.0
 10461322,nieuwpoort,8620,West Flanders,apartment,apartment,for sale,385000,5661.76,As new,4,,1.0,68.0,0.0,Installed,1,,191,6,1,,0,0.0,0.0,0.0
 10461197,nieuwpoort,8620,West Flanders,apartment,apartment,for sale,385000,5661.76,As new,4,,1.0,68.0,0.0,Installed,1,,191,6,1,,0,0.0,0.0,0.0
 10348836,knokke,8300,West Flanders,apartment,apartment,for sale,389000,9725.0,,-1,,1.0,40.0,0.0,,-1,,205,5,0,0.0,0,0.0,0.0,0.0
@@ -16864,7 +16864,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10253558,loppem,8210,West Flanders,apartment,duplex,for sale,449000,3013.42,Good,3,2.0,5.0,149.0,0.0,Installed,1,,-1,-1,1,,0,0.0,0.0,0.0
 9246623,knokke-heist,8300,West Flanders,apartment,apartment,for sale,449000,8017.86,,-1,,1.0,56.0,0.0,,-1,,89,7,1,,1,,0.0,0.0
 10547029,middelkerke,8430,West Flanders,apartment,apartment,for sale,449000,3741.67,As new,4,,3.0,120.0,0.0,USA installed,1,,235,5,1,,0,0.0,0.0,0.0
-10212325,antwerp,2000,Antwerp,apartment,apartment,for sale,460000,5411.76,,-1,,2.0,85.0,0.0,Hyper equipped,3,,9241,1,1,,0,0.0,0.0,0.0
+10212325,antwerp,2000,Antwerp,apartment,apartment,for sale,460000,5411.76,,-1,,2.0,85.0,0.0,Hyper equipped,3,,92,7,1,,0,0.0,0.0,0.0
 10483910,mechelen,2800,Antwerp,apartment,apartment,for sale,474500,3488.97,As new,4,,2.0,136.0,0.0,USA hyper equipped,3,,-1,-1,1,16.0,0,0.0,0.0,0.0
 9793314,liege,4000,Liège,apartment,apartment,for sale,479000,3193.33,As new,4,2.0,2.0,150.0,0.0,,-1,,123,6,1,30.0,0,0.0,0.0,0.0
 10492623,brussels city,1000,Brussels Capital Region,apartment,penthouse,for sale,482000,3825.4,As new,4,4.0,3.0,126.0,0.0,Hyper equipped,3,,-1,-1,1,13.0,0,0.0,0.0,0.0
@@ -16966,7 +16966,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 9512035,wommelgem,2160,Antwerp,apartment,apartment,for sale,325000,3532.61,,-1,2.0,1.0,92.0,0.0,USA hyper equipped,3,,-1,-1,1,24.0,0,0.0,0.0,0.0
 10413393,herne,1540,Flemish Brabant,apartment,apartment,for sale,329500,2995.45,As new,4,3.0,2.0,110.0,0.0,Hyper equipped,3,,-1,-1,1,21.0,0,0.0,0.0,0.0
 9489638,antwerp,2018,Antwerp,apartment,apartment,for sale,354000,4370.37,As new,4,2.0,2.0,81.0,0.0,,-1,,-1,-1,1,4.0,0,0.0,0.0,0.0
-10000585,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,355000,6339.29,As new,4,2.0,1.0,56.0,0.0,Installed,1,,10779,1,1,17.0,0,0.0,0.0,0.0
+10000585,knokke-zoute,8300,West Flanders,apartment,apartment,for sale,355000,6339.29,As new,4,2.0,1.0,56.0,0.0,Installed,1,,107,6,1,17.0,0,0.0,0.0,0.0
 10453215,gavere,9890,East Flanders,apartment,apartment,for sale,355000,3198.2,,-1,2.0,3.0,111.0,0.0,Installed,1,,-1,-1,1,9.0,0,0.0,0.0,0.0
 10528042,chaumont-gistoux,1325,Walloon Brabant,apartment,apartment,for sale,359000,3819.15,,-1,,1.0,94.0,0.0,Installed,1,,-1,-1,1,,1,130.0,0.0,0.0
 9489642,antwerp,2018,Antwerp,apartment,apartment,for sale,360000,4444.44,As new,4,2.0,2.0,81.0,0.0,,-1,,-1,-1,1,4.0,0,0.0,0.0,0.0
@@ -17122,13 +17122,13 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10467228,knokke,8300,West Flanders,apartment,apartment,for sale,395000,6694.92,To renovate,1,,1.0,59.0,0.0,,-1,,146,6,0,0.0,0,0.0,0.0,0.0
 10069986,sambreville tamines,5060,Namur,apartment,loft,for sale,396000,720.0,Good,3,4.0,2.0,550.0,1.0,Installed,1,,549,2,1,,0,0.0,0.0,0.0
 10180811,waterloo,1410,Walloon Brabant,apartment,duplex,for sale,398000,3553.57,Good,3,,3.0,112.0,0.0,Installed,1,,121,6,1,14.0,0,0.0,0.0,0.0
-10504769,blankenberge,8370,West Flanders,apartment,apartment,for sale,399000,4113.4,,-1,2.0,2.0,97.0,0.0,,-1,,6724,1,1,26.0,0,0.0,0.0,0.0
+10504769,blankenberge,8370,West Flanders,apartment,apartment,for sale,399000,4113.4,,-1,2.0,2.0,97.0,0.0,,-1,,67,7,1,26.0,0,0.0,0.0,0.0
 10461061,beernem,8730,West Flanders,apartment,penthouse,for sale,399500,2512.58,,-1,,3.0,159.0,0.0,USA hyper equipped,3,,113,6,1,,0,0.0,0.0,0.0
 10436959,blankenberge,8370,West Flanders,apartment,apartment,for sale,399800,3359.66,,-1,2.0,2.0,119.0,0.0,Installed,1,,-1,-1,1,11.0,0,0.0,0.0,0.0
 10377656,leuven,3010,Flemish Brabant,apartment,ground floor,for sale,410000,3867.92,Good,3,2.0,2.0,106.0,0.0,Installed,1,,-1,-1,1,,0,0.0,0.0,0.0
 10414488,zwijndrecht,2070,Antwerp,apartment,apartment,for sale,415000,2305.56,Good,3,2.0,3.0,180.0,0.0,Installed,1,,148,6,1,,0,0.0,0.0,0.0
 9176999,antwerp,2000,Antwerp,apartment,service flat,for sale,420000,5250.0,As new,4,,1.0,80.0,0.0,Hyper equipped,3,,-1,-1,1,,0,0.0,0.0,0.0
-10505667,gent,9000,East Flanders,apartment,apartment,for sale,425000,3483.61,,-1,2.0,2.0,122.0,0.0,,-1,,5616,1,1,13.0,0,0.0,0.0,0.0
+10505667,gent,9000,East Flanders,apartment,apartment,for sale,425000,3483.61,,-1,2.0,2.0,122.0,0.0,,-1,,56,7,1,13.0,0,0.0,0.0,0.0
 10481501,moerkerke,8340,West Flanders,apartment,apartment,for sale,427300,3621.19,As new,4,2.0,2.0,118.0,0.0,Hyper equipped,3,,-1,-1,1,20.0,0,0.0,0.0,0.0
 10166850,antwerp,2000,Antwerp,apartment,apartment,for sale,440000,5176.47,As new,4,2.0,2.0,85.0,0.0,Hyper equipped,3,,-1,-1,1,12.0,0,0.0,0.0,0.0
 10492504,rotselaar,3118,Flemish Brabant,apartment,apartment,for sale,452500,3678.86,As new,4,,3.0,123.0,0.0,Hyper equipped,3,,-1,-1,1,19.0,0,0.0,0.0,0.0
@@ -17199,7 +17199,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10018472,kortrijk,8500,West Flanders,apartment,ground floor,for sale,274348,2799.47,As new,4,,2.0,98.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10087553,torhout,8820,West Flanders,apartment,apartment,for sale,292500,3179.35,As new,4,2.0,2.0,92.0,0.0,USA hyper equipped,3,,-1,-1,1,,1,25.0,0.0,0.0
 10295266,liège,4000,Liège,apartment,apartment,for sale,297000,3453.49,As new,4,2.0,2.0,86.0,0.0,Installed,1,,-1,-1,1,11.0,0,0.0,0.0,0.0
-10563807,brakel,9660,East Flanders,apartment,ground floor,for sale,299900,2221.48,As new,4,,2.0,135.0,0.0,USA installed,1,,12632,1,1,30.0,1,300.0,0.0,0.0
+10563807,brakel,9660,East Flanders,apartment,ground floor,for sale,299900,2221.48,As new,4,,2.0,135.0,0.0,USA installed,1,,126,6,1,30.0,1,300.0,0.0,0.0
 10264087,dendermonde baasrode,9200,East Flanders,apartment,apartment,for sale,312500,2920.56,,-1,2.0,3.0,107.0,0.0,USA hyper equipped,3,,-1,-1,1,18.0,0,0.0,0.0,0.0
 10384094,temse,9140,East Flanders,apartment,apartment,for sale,322500,3505.43,As new,4,,2.0,92.0,0.0,Hyper equipped,3,,-1,-1,1,11.0,0,0.0,0.0,0.0
 10563841,antwerpen,2140,Antwerp,apartment,duplex,for sale,324500,3061.32,Just renovated,3,4.0,4.0,106.0,0.0,,-1,,-1,-1,1,1.0,0,0.0,0.0,0.0
@@ -17290,7 +17290,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10531759,anderlecht,1070,Brussels Capital Region,apartment,apartment,for sale,239000,2655.56,Good,3,2.0,2.0,90.0,0.0,,-1,,259,5,1,40.0,0,0.0,0.0,0.0
 10546431,waterloo,1410,Walloon Brabant,apartment,apartment,for sale,239000,3983.33,,-1,4.0,1.0,60.0,0.0,,-1,,183,6,1,14.0,0,0.0,0.0,0.0
 9228058,aalst,9300,East Flanders,apartment,apartment,for sale,239000,5085.11,,-1,,1.0,47.0,0.0,Installed,1,,110,6,1,5.0,0,0.0,0.0,0.0
-10444277,beveren-leie,8791,West Flanders,apartment,apartment,for sale,242900,3736.92,,-1,,2.0,65.0,0.0,,-1,,9665,1,1,16.0,0,0.0,0.0,0.0
+10444277,beveren-leie,8791,West Flanders,apartment,apartment,for sale,242900,3736.92,,-1,,2.0,65.0,0.0,,-1,,96,7,1,16.0,0,0.0,0.0,0.0
 10309556,mons,7000,Hainaut,apartment,apartment,for sale,245000,1633.33,,-1,,4.0,150.0,0.0,,-1,,206,5,1,11.0,0,0.0,0.0,0.0
 10406233,antwerpen,2050,Antwerp,apartment,apartment,for sale,249000,2075.0,,-1,2.0,3.0,120.0,0.0,,-1,,-1,-1,1,10.0,0,0.0,0.0,0.0
 10286174,beerzel,2580,Antwerp,apartment,apartment,for sale,249000,2394.23,Good,3,2.0,2.0,104.0,0.0,Installed,1,,261,5,0,0.0,0,0.0,0.0,0.0
@@ -17338,7 +17338,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10536583,rumbeke,8800,West Flanders,apartment,apartment,for sale,335000,4240.51,As new,4,,1.0,79.0,0.0,Hyper equipped,3,,-1,-1,1,25.0,0,0.0,0.0,0.0
 10328909,eeklo,9900,East Flanders,apartment,apartment,for sale,340000,2463.77,To be done up,2,,3.0,138.0,0.0,Semi equipped,2,,181,6,1,25.0,1,,0.0,0.0
 10522976,brugge,8200,West Flanders,apartment,apartment,for sale,341550,3672.58,Good,3,,2.0,93.0,0.0,,-1,,-1,-1,1,13.0,0,0.0,0.0,0.0
-10393002,tisselt,2830,Antwerp,apartment,apartment,for sale,345000,3920.45,As new,4,,2.0,88.0,0.0,,-1,,5231,1,1,,0,0.0,0.0,0.0
+10393002,tisselt,2830,Antwerp,apartment,apartment,for sale,345000,3920.45,As new,4,,2.0,88.0,0.0,,-1,,52,7,1,,0,0.0,0.0,0.0
 10359132,vilvoorde,1800,Flemish Brabant,apartment,ground floor,for sale,345683,3059.14,,-1,4.0,2.0,113.0,0.0,USA installed,1,,-1,-1,1,7.0,0,0.0,0.0,0.0
 10383418,ingelmunster,8770,West Flanders,apartment,apartment,for sale,360000,3025.21,As new,4,,2.0,119.0,0.0,,-1,,-1,-1,1,32.0,1,22.0,0.0,0.0
 9944861,veurne,8630,West Flanders,apartment,apartment,for sale,366000,3155.17,As new,4,,3.0,116.0,0.0,Installed,1,,-1,-1,1,21.0,0,0.0,0.0,0.0
@@ -17559,7 +17559,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10418724,koksijde,8670,West Flanders,apartment,apartment,for sale,395000,3761.9,,-1,,3.0,105.0,0.0,Installed,1,,232,5,0,0.0,0,0.0,0.0,0.0
 10487221,liège,4000,Liège,apartment,duplex,for sale,399000,3660.55,As new,4,3.0,2.0,109.0,0.0,,-1,,70,7,1,7.0,0,0.0,0.0,0.0
 10517201,woluwe-saint-lambert,1200,Brussels Capital Region,apartment,apartment,for sale,410000,5125.0,Good,3,,1.0,80.0,0.0,,-1,,272,5,1,5.0,0,0.0,1.0,0.0
-10549504,gent,9000,East Flanders,apartment,service flat,for sale,415000,5123.46,,-1,,2.0,81.0,0.0,,-1,,6213,1,1,10.0,1,,0.0,0.0
+10549504,gent,9000,East Flanders,apartment,service flat,for sale,415000,5123.46,,-1,,2.0,81.0,0.0,,-1,,62,7,1,10.0,1,,0.0,0.0
 10514662,koksijde,8670,West Flanders,apartment,ground floor,for sale,420000,3500.0,As new,4,,3.0,120.0,0.0,Installed,1,,190,6,1,90.0,1,,0.0,0.0
 10043443,knokke,8300,West Flanders,apartment,apartment,for sale,425000,6538.46,As new,4,,2.0,65.0,0.0,,-1,,-1,-1,0,0.0,1,,0.0,0.0
 10406294,schoten,2900,Antwerp,apartment,apartment,for sale,429000,2042.86,,-1,,5.0,210.0,0.0,,-1,,272,5,1,,0,0.0,0.0,0.0
@@ -17791,7 +17791,7 @@ id,Locality,Zip,Province,Type of property,Subtype of property,Type of sale,Price
 10495297,het zoute,8300,West Flanders,apartment,apartment,for sale,799000,10653.33,,-1,2.0,2.0,75.0,0.0,Installed,1,,107,6,0,0.0,0,0.0,0.0,0.0
 10471656,knokke-heist,8300,West Flanders,apartment,duplex,for sale,985000,8954.55,Good,3,,3.0,110.0,0.0,,-1,,-1,-1,0,0.0,0,0.0,0.0,0.0
 10513263,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1095000,17380.95,Good,3,,2.0,63.0,0.0,,-1,,125,6,0,0.0,0,0.0,0.0,0.0
-10337357,koksijde,8670,West Flanders,apartment,apartment,for sale,1095000,8830.65,As new,4,2.0,3.0,124.0,0.0,Installed,1,,10853,1,1,30.0,0,0.0,0.0,0.0
+10337357,koksijde,8670,West Flanders,apartment,apartment,for sale,1095000,8830.65,As new,4,2.0,3.0,124.0,0.0,Installed,1,,108,6,1,30.0,0,0.0,0.0,0.0
 10549988,knokke-heist,8300,West Flanders,apartment,apartment,for sale,1120000,9655.17,As new,4,,3.0,116.0,0.0,,-1,,-1,-1,1,,1,,0.0,0.0
 10526396,waasmunster,9250,East Flanders,apartment,apartment,for sale,1223000,4911.65,As new,4,3.0,3.0,249.0,0.0,,-1,,-1,-1,1,169.0,1,10000.0,0.0,0.0
 10547599,antwerp,2000,Antwerp,apartment,apartment,for sale,1990000,7509.43,Good,3,2.0,3.0,265.0,0.0,USA hyper equipped,3,,-1,-1,1,17.0,0,0.0,0.0,0.0
