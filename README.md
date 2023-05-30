@@ -1,23 +1,42 @@
-# challenge-data-analysis
-Immoweb - Challenge Data Analysis
+# Immoweb Data Analysis Project
 
-Melike notes: 
-- we can keep zip to create a map afterwards with tableau..
-- some garden or terrace column says yes but NaN in the garden or terrace area. So if we set all empty areas to zero, it gives wrong info. (column = column.replace('', np.nan).fillna(0).astype(int)) --> maybe we can fill the area of the ones with yes as mean() of others with surface area?
-- however, we can do this on swimming pool or open fire: if it's not yes or an integer, we can just set to zero.
-- same on furnished: if yes -> 1, if no or NaN -> 0 
-- we can create a scale for Fully equipped kitchen as for Hyper equipped/USA hyper equipped=3, Semi equipped/USA semi equipped=1, Installed/USA installed=1, Not installed/NaN=0 etc..
-- same with building condition: new = 3 etc. But I saw that it's removed, but it may be usefull to make predictions on the property prices..
-- should we add the info like energy consumption to use afterwards?
+This repository contains the code and analysis for the data analysis project completed by our team. The objective of this project is to perform a preliminary analysis on a real estate dataset provided by a previous web scraping project. The analysis aimed to gather valuable insights from the data to pick out the properties that are the most valuable.
+
+## Team
+
+This project was collaboratively developed by our team at Becode.org. The team members are:
+
+- [Sarkis Tadevosian](https://github.com/Ta-DevSark)
+- [Mourad Amjahed](https://github.com/Mourad-Amj)
+- [Natalia Evgrafova](https://github.com/natalievgrafova)
+- [Melike Kaya](https://github.com/melikkekaya)
+
+## Project Overview
+
+The analysis encompassed several key steps, including data cleaning, exploration, visualization, and interpretation. By leveraging the pandas library for data manipulation and analysis, as well as visualization libraries such as matplotlib and seaborn, our team was able to gain valuable insights into the dataset.
+
+The project's core objectives included identifying correlations between variables and property prices, determining influential factors impacting property prices, analyzing the distribution of properties based on surface area, and identifying the most and least expensive municipalities in Belgium, Wallonia, and Flanders.
+
+The deliverables of the project included a well-documented code repository with clean and structured code, compelling visualizations, and a comprehensive presentation summarizing the analysis results. By successfully completing this project, our team provided valuable insights and recommendations to support a strategic decision-making process.
+
+# Instructions
+
+## Installation
+To run the cleaning or analysis script, follow these steps:
+
+- Clone this GitHub repository to your local machine.
+- Install the required dependencies by running pip install -r requirements.txt.
+- Ensure you have Python 3.7 or higher installed.
+
+## Usage (To be updated)
+Follow the steps below to run the analysis:
+
+- Navigate to the project directory: `cd challenge-data-analysis`
+- Run the analysis script:`python analysis.py`
+The script will perform data cleaning, analysis, and generate visualizations based on the provided dataset.
 
 
+# Personal Situation
+In this project, we faced various challenges and worked together to overcome them. We applied data analysis techniques to interpret and make predictions data from Immoweb efficiently. Additionally, we ensured the collected dataset was clean from outliers and contained accurate information before interpretation.
 
-Answer the following questions with a vizualization if appropriate:
-
-    How many rows and columns? ok
-    What is the correlation between the variables and the price? (Why might that be?)
-    How are variables correlated to each other? (Why?)
-    Which variables have the greatest influence on the price?
-    Which variables have the least influence on the price?
-    How many qualitative and quantitative variables are there? How would you transform these values into numerical values?
-    Percentage of missing values per column?
+For any inquiries or additional information, please feel free to contact us.
